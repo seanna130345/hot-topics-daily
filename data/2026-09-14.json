@@ -1,0 +1,356 @@
+{
+  "date": "2026-09-14 07:16",
+  "gold": {
+    "price": 944.9178629414695,
+    "change": -5.8657064317520735,
+    "change_pct": -0.6169339290979631
+  },
+  "sections": {
+    "world_news": [
+      {
+        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+        "raw": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+        "published": "Sun, 13 Se",
+        "source": "国际新闻",
+        "summary": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station"
+      },
+      {
+        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+        "raw": "Trump downplays warnings of AI risks, citing rivalry with China The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+        "published": "Sun, 13 Se",
+        "source": "国际新闻",
+        "summary": "Trump downplays warnings of AI risks, citing rivalry with China"
+      },
+      {
+        "title": "Questions mount over what an AI 'slowdown' would look like",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+        "raw": "Questions mount over what an AI 'slowdown' would look like While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+        "published": "Sun, 13 Se",
+        "source": "国际新闻",
+        "summary": "Questions mount over what an AI 'slowdown' would look like"
+      },
+      {
+        "title": "Swedish party blocs tied after Sunday vote, projections say",
+        "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "raw": "Swedish party blocs tied after Sunday vote, projections say A partial count by Sweden's election authority projected that left-wing opposition bloc would win a one-seat majority.",
+        "published": "Sun, 13 Se",
+        "source": "国际新闻",
+        "summary": "Swedish party blocs tied after Sunday vote, projections say"
+      },
+      {
+        "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
+        "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
+        "raw": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+        "published": "Sun, 13 Se",
+        "source": "国际新闻",
+        "summary": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea"
+      }
+    ],
+    "china_news": [
+      {
+        "title": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7252946.shtml",
+        "raw": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t \n\t\t\t\t　　原标题：”光纤之父”高锟离世 享年84岁\n　　据香港媒体报道，香港中文大学前校长、有“光纤之父”之称的高锟，今天（9月23日）下午在医院离世，享年84岁。\n\n　　高锟光纤、宽带传送等科技成就极高，在国际学术领域获奖无数，并在2009年10月6日获得诺贝尔物理学奖，以表扬其“....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7224643.shtml",
+        "raw": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t \n\t\t\t\t　　原标题：我在瑞典学习工作12年，这台辱华节目槽点多到不忍直视\n　　文/ doufu\n　　观察者网、环球时报等已经对瑞典国家电视台播放的辱华电视节目“Svenska Nyheter（瑞典新闻）”做了翻译和介绍，我再发布个人版本的翻译意义很小，因此我决定做一些补充性的说明，并表达一些个....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2018-09-23/doc-ihkmwytn7197076.shtml",
+        "raw": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t \n\t\t\t\t原标题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　中新社香港9月23日电 题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　作者 香企容\n　　广深港高铁香港段(高铁香港段)23日正式通车，500多名搭乘香港西九龙站首发列车的乘....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7187370.shtml",
+        "raw": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t \n\t\t\t\t　　原标题：这位市委书记香港请大师写“符文” 放枕下求保佑\n　　撰文 | 韩兵   \n　　9月20日，黑龙江省举行了反腐败警示教育大会，现职省级领导和省直单位主要负责同志、纪委书记（纪检监察组长）等432人到场学习。\n　　据了解，这是黑龙江省首次举办这样规模的警示教....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ifxeuwwr7474087.shtml",
+        "raw": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t \n\t\t\t\t　　原标题：头条 | 让美国失望了！“制裁”难阻中国进口军备，反而会――\n　　据《日本经济新闻》9月22日报道，特朗普政府20日决定对中国军方高官等实施制裁，理由是相关人员和机构违反《以制裁反击美国敌人法》从俄罗斯进口军事装备。\n　　报道称，特朗普政府将俄罗斯最重视的军....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t"
+      }
+    ],
+    "tech_news": [
+      {
+        "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+        "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+        "raw": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+        "published": "Sun, 13 Se",
+        "source": "科技",
+        "summary": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic"
+      },
+      {
+        "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+        "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+        "raw": "Larry Ellison cancels $7.5 billion sale of Oracle stock Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+        "published": "Sun, 13 Se",
+        "source": "科技",
+        "summary": "Larry Ellison cancels $7.5 billion sale of Oracle stock"
+      },
+      {
+        "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+        "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+        "raw": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+        "published": "Sun, 13 Se",
+        "source": "科技",
+        "summary": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs"
+      },
+      {
+        "title": "What’s behind the AI industry’s latest warnings of doom?",
+        "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+        "raw": "What’s behind the AI industry’s latest warnings of doom? On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+        "published": "Sun, 13 Se",
+        "source": "科技",
+        "summary": "What’s behind the AI industry’s latest warnings of doom?"
+      },
+      {
+        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+        "raw": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+        "published": "Sun, 13 Se",
+        "source": "科技",
+        "summary": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards"
+      }
+    ],
+    "finance_news": [
+      {
+        "title": "A $7 Billion Gas Bill Sees Developing Asian Nations Sour on LNG",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-13/a-7-billion-gas-bill-sees-developing-asian-nations-sour-on-lng",
+        "raw": "A $7 Billion Gas Bill Sees Developing Asian Nations Sour on LNG The loss of a fifth of liquefied natural gas supply due to the US-Iran war is blowing out costs for Asia’s developing markets, and forcing a rethink of the fuel’s long-term future in the region.",
+        "published": "Sun, 13 Se",
+        "source": "国际财经",
+        "summary": "A $7 Billion Gas Bill Sees Developing Asian Nations Sour on LNG"
+      },
+      {
+        "title": "Trump’s Drug-Pricing Push to Cut Access Outside US, Study Finds",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-s-drug-pricing-push-to-cut-access-outside-us-study-finds",
+        "raw": "Trump’s Drug-Pricing Push to Cut Access Outside US, Study Finds The Trump administration’s push to bring US drug spending down is a powerful incentive for pharmaceutical companies to boost prices and reduce access elsewhere in the world, a study found.",
+        "published": "Sun, 13 Se",
+        "source": "国际财经",
+        "summary": "Trump’s Drug-Pricing Push to Cut Access Outside US, Study Finds"
+      },
+      {
+        "title": "Latest Oil Market News and Analysis for Sept. 14",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-13/latest-oil-market-news-and-analysis-for-sept-14",
+        "raw": "Latest Oil Market News and Analysis for Sept. 14 Oil advanced after Saudi Arabia shut a major crude pipeline following attacks, disrupting a route that’s been used to bypass the Strait of Hormuz during the US-Iran war and deepening a global energy crunch.",
+        "published": "Sun, 13 Se",
+        "source": "国际财经",
+        "summary": "Latest Oil Market News and Analysis for Sept. 14"
+      },
+      {
+        "title": "US Stock Futures Fall on AI Warning, Oil Gains: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+        "raw": "US Stock Futures Fall on AI Warning, Oil Gains: Markets Wrap US equity futures fell and oil advanced as investors weighed renewed concerns over the pace of AI development against hotter-than-expected US inflation that bolstered bets the Federal Reserve may raise interest rates on Wednesday.",
+        "published": "Sun, 13 Se",
+        "source": "国际财经",
+        "summary": "US Stock Futures Fall on AI Warning, Oil Gains: Markets Wrap"
+      },
+      {
+        "title": "Hormuz Meeting With Iran and Gulf Nations Delayed, Oman Says",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-13/hormuz-meeting-with-iran-and-gulf-nations-postponed-oman-says",
+        "raw": "Hormuz Meeting With Iran and Gulf Nations Delayed, Oman Says A planned meeting for Monday between Iran and several Gulf nations on creating a temporary shipping lane through the Strait of Hormuz has been postponed, according to Oman’s foreign minister.",
+        "published": "Sun, 13 Se",
+        "source": "国际财经",
+        "summary": "Hormuz Meeting With Iran and Gulf Nations Delayed, Oman Says"
+      }
+    ],
+    "ai_news": [
+      {
+        "title": "What’s behind the AI industry’s latest warnings of doom?",
+        "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+        "raw": "What’s behind the AI industry’s latest warnings of doom? On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+        "published": "Sun, 13 Se",
+        "source": "全球AI",
+        "summary": "What’s behind the AI industry’s latest warnings of doom?"
+      },
+      {
+        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+        "raw": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+        "published": "Sun, 13 Se",
+        "source": "全球AI",
+        "summary": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards"
+      },
+      {
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "raw": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026 While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "published": "Sat, 12 Se",
+        "source": "全球AI",
+        "summary": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026"
+      },
+      {
+        "title": "Anthropic CEO outlines plan to slow AI development",
+        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "raw": "Anthropic CEO outlines plan to slow AI development Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+        "published": "Sat, 12 Se",
+        "source": "全球AI",
+        "summary": "Anthropic CEO outlines plan to slow AI development"
+      },
+      {
+        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+        "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+        "raw": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+        "published": "Fri, 11 Se",
+        "source": "全球AI",
+        "summary": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data"
+      }
+    ],
+    "robot_news": [
+      {
+        "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
+        "url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+        "raw": "Video Friday: Humanoid Robot Takes On Monkey Bars \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.Humanoids Summit Seoul: 22–23 September 2026, SEOULIROS",
+        "published": "Fri, 11 Se",
+        "source": "全球机器人",
+        "summary": "Video Friday: Humanoid Robot Takes On Monkey Bars"
+      },
+      {
+        "title": "Robots Are Learning to Feel",
+        "url": "https://spectrum.ieee.org/tactile-data-robots",
+        "raw": "Robots Are Learning to Feel \nDexterous manipulation remains one of the biggest barriers keeping robots from successfully tackling a wide range of everyday tasks. A sense of touch could be the key, but a lack of quality data has held back progress. This is now starting to change as academic labs and startups race to build new t",
+        "published": "Thu, 10 Se",
+        "source": "全球机器人",
+        "summary": "Robots Are Learning to Feel"
+      },
+      {
+        "title": "This Robot Will Draw Your Blood Now",
+        "url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+        "raw": "This Robot Will Draw Your Blood Now \nYou sit down and put your arm in the cradle. You press a button. The machine takes it from there.A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe glides across your arm, mapping how deep the vessel runs and which way it bends. ",
+        "published": "Mon, 07 Se",
+        "source": "全球机器人",
+        "summary": "This Robot Will Draw Your Blood Now"
+      },
+      {
+        "title": "Cyborg Roaches Can Stab You With Needles",
+        "url": "https://spectrum.ieee.org/cyborg-rescue-roach",
+        "raw": "Cyborg Roaches Can Stab You With Needles \nImagine you are trapped under rubble after an earthquake and you see an electronics-covered cockroach with a spring-loaded needle on its back scuttling toward you. Although the sight might be unnerving, to say the least, this prototype paramedic cyborg, or “Paraborg,” might one day help deliver lif",
+        "published": "Sat, 05 Se",
+        "source": "全球机器人",
+        "summary": "Cyborg Roaches Can Stab You With Needles"
+      },
+      {
+        "title": "Video Friday: Digit Redecorates",
+        "url": "https://spectrum.ieee.org/video-friday-agility-robotics-digit",
+        "raw": "Video Friday: Digit Redecorates \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.Humanoids Summit Seoul: 22–23 September 2026, SEOULIROS",
+        "published": "Fri, 04 Se",
+        "source": "全球机器人",
+        "summary": "Video Friday: Digit Redecorates"
+      }
+    ],
+    "github_trending": [
+      {
+        "source": "GitHub Trending",
+        "title": "passnodesewer/Serum-2-Free",
+        "url": "https://github.com/passnodesewer/Serum-2-Free",
+        "raw": "passnodesewer/Serum-2-Free: Serum 2.1.5 Free is a powerful synth for music production, sound design, and creative audio projects. Explore Serum 2 presets, tutorials, features, installation guides, and useful resources for producers and electronic music enthusiasts on GitHub.to master the next-generation synthesizer in one place. Stars:88 Language:C++",
+        "stars": 88,
+        "published": "2026-09-13",
+        "summary": "passnodesewer/Serum-2-Free"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks",
+        "url": "https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks",
+        "raw": "MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks: DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks Stars:79 Language:Python",
+        "stars": 79,
+        "published": "2026-09-13",
+        "summary": "MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "Speedstu/CUDA-for-AMD-Windows",
+        "url": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
+        "raw": "Speedstu/CUDA-for-AMD-Windows: Run CUDA-targeted Windows applications on AMD GPUs with ZLUDA + ROCm/HIP. Stars:60 Language:PowerShell",
+        "stars": 60,
+        "published": "2026-09-13",
+        "summary": "Speedstu/CUDA-for-AMD-Windows"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "Dr-TSNG/altdb",
+        "url": "https://github.com/Dr-TSNG/altdb",
+        "raw": "Dr-TSNG/altdb: A KernelSU module that provides alternative adb server over local network Stars:54 Language:Rust",
+        "stars": 54,
+        "published": "2026-09-13",
+        "summary": "Dr-TSNG/altdb"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "wangmumu311/PMS_delivery",
+        "url": "https://github.com/wangmumu311/PMS_delivery",
+        "raw": "wangmumu311/PMS_delivery: None Stars:53 Language:HTML",
+        "stars": 53,
+        "published": "2026-09-13",
+        "summary": "wangmumu311/PMS_delivery"
+      }
+    ],
+    "claude_code": [
+      {
+        "source": "GitHub",
+        "title": "Vincentwei1021/anything2explainer",
+        "url": "https://github.com/Vincentwei1021/anything2explainer",
+        "raw": "Vincentwei1021/anything2explainer: Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+        "stars": 1164,
+        "published": "2026-09-08",
+        "summary": "Vincentwei1021/anything2explainer"
+      },
+      {
+        "source": "GitHub",
+        "title": "crwdla/tokentab",
+        "url": "https://github.com/crwdla/tokentab",
+        "raw": "crwdla/tokentab: A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+        "stars": 822,
+        "published": "2026-09-07",
+        "summary": "crwdla/tokentab"
+      },
+      {
+        "source": "GitHub Issue",
+        "title": "[BUG] Android app: input field loses focus while typing with a physical keyboard in a Claude Code session",
+        "url": "https://github.com/anthropics/claude-code/issues/94062",
+        "raw": "[BUG] Android app: input field loses focus while typing with a physical keyboard in a Claude Code session ### Preflight Checklist\n\n- [x] I have searched [existing issues](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20state%3Aopen%20label%3Abug) and this hasn't been reported yet\n- [x] This is a single bug report (please file separate reports for different bugs)\n- [x] I am using the late",
+        "stars": 0,
+        "published": "2026-09-13",
+        "summary": "[BUG] Android app: input field loses focus while typing with a physical keyboard in a Claude Code session"
+      },
+      {
+        "source": "GitHub Issue",
+        "title": "Feature request: persistent indicator when in Claude Code vs Claude.ai chat",
+        "url": "https://github.com/anthropics/claude-code/issues/94060",
+        "raw": "Feature request: persistent indicator when in Claude Code vs Claude.ai chat ### Preflight Checklist\n\n- [x] I have searched [existing requests](https://github.com/anthropics/claude-code/issues?q=is%3Aissue%20label%3Aenhancement) and this feature hasn't been requested yet\n- [x] This is a single feature request (not multiple features)\n\n### Problem Statement\n\nAs a non-technical",
+        "stars": 0,
+        "published": "2026-09-13",
+        "summary": "Feature request: persistent indicator when in Claude Code vs Claude.ai chat"
+      },
+      {
+        "source": "GitHub",
+        "title": "kruzovic7/ai-data-extractor",
+        "url": "https://github.com/kruzovic7/ai-data-extractor",
+        "raw": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+        "stars": 367,
+        "published": "2026-09-11",
+        "summary": "kruzovic7/ai-data-extractor"
+      }
+    ]
+  }
+}
