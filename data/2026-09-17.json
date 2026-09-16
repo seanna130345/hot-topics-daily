@@ -1,0 +1,356 @@
+{
+  "date": "2026-09-17 07:42",
+  "gold": {
+    "price": 928.2684842541837,
+    "change": -16.56007201761861,
+    "change_pct": -1.7527065527065537
+  },
+  "sections": {
+    "world_news": [
+      {
+        "title": "US interest rates raised for first time in three years",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "raw": "US interest rates raised for first time in three years Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "published": "Wed, 16 Se",
+        "source": "国际新闻",
+        "summary": "US interest rates raised for first time in three years"
+      },
+      {
+        "title": "Photos show widespread damage at US sites from Iranian attacks",
+        "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+        "raw": "Photos show widespread damage at US sites from Iranian attacks A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+        "published": "Wed, 16 Se",
+        "source": "国际新闻",
+        "summary": "Photos show widespread damage at US sites from Iranian attacks"
+      },
+      {
+        "title": "EU chief backs plan for Canada to become 'associate member'",
+        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+        "raw": "EU chief backs plan for Canada to become 'associate member' Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
+        "published": "Wed, 16 Se",
+        "source": "国际新闻",
+        "summary": "EU chief backs plan for Canada to become 'associate member'"
+      },
+      {
+        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+        "raw": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
+        "published": "Wed, 16 Se",
+        "source": "国际新闻",
+        "summary": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say"
+      },
+      {
+        "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
+        "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
+        "raw": "US House votes to hold billionaire Epstein associate Leon Black in contempt Black - who had business ties to Epstein - declined to appear and provide documents related to the convicted sex offender.",
+        "published": "Wed, 16 Se",
+        "source": "国际新闻",
+        "summary": "US House votes to hold billionaire Epstein associate Leon Black in contempt"
+      }
+    ],
+    "china_news": [
+      {
+        "title": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7252946.shtml",
+        "raw": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t \n\t\t\t\t　　原标题：”光纤之父”高锟离世 享年84岁\n　　据香港媒体报道，香港中文大学前校长、有“光纤之父”之称的高锟，今天（9月23日）下午在医院离世，享年84岁。\n\n　　高锟光纤、宽带传送等科技成就极高，在国际学术领域获奖无数，并在2009年10月6日获得诺贝尔物理学奖，以表扬其“....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7224643.shtml",
+        "raw": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t \n\t\t\t\t　　原标题：我在瑞典学习工作12年，这台辱华节目槽点多到不忍直视\n　　文/ doufu\n　　观察者网、环球时报等已经对瑞典国家电视台播放的辱华电视节目“Svenska Nyheter（瑞典新闻）”做了翻译和介绍，我再发布个人版本的翻译意义很小，因此我决定做一些补充性的说明，并表达一些个....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2018-09-23/doc-ihkmwytn7197076.shtml",
+        "raw": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t \n\t\t\t\t原标题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　中新社香港9月23日电 题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　作者 香企容\n　　广深港高铁香港段(高铁香港段)23日正式通车，500多名搭乘香港西九龙站首发列车的乘....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7187370.shtml",
+        "raw": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t \n\t\t\t\t　　原标题：这位市委书记香港请大师写“符文” 放枕下求保佑\n　　撰文 | 韩兵   \n　　9月20日，黑龙江省举行了反腐败警示教育大会，现职省级领导和省直单位主要负责同志、纪委书记（纪检监察组长）等432人到场学习。\n　　据了解，这是黑龙江省首次举办这样规模的警示教....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ifxeuwwr7474087.shtml",
+        "raw": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t \n\t\t\t\t　　原标题：头条 | 让美国失望了！“制裁”难阻中国进口军备，反而会――\n　　据《日本经济新闻》9月22日报道，特朗普政府20日决定对中国军方高官等实施制裁，理由是相关人员和机构违反《以制裁反击美国敌人法》从俄罗斯进口军事装备。\n　　报道称，特朗普政府将俄罗斯最重视的军....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t"
+      }
+    ],
+    "tech_news": [
+      {
+        "title": "US automakers could soon be forced to include AM radio for free",
+        "url": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+        "raw": "US automakers could soon be forced to include AM radio for free The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
+        "published": "Wed, 16 Se",
+        "source": "科技",
+        "summary": "US automakers could soon be forced to include AM radio for free"
+      },
+      {
+        "title": "Noise wants to help everyday people  become paid content creators",
+        "url": "https://techcrunch.com/2026/09/16/noise-wants-to-help-everyday-people-become-paid-content-creators/",
+        "raw": "Noise wants to help everyday people  become paid content creators Marketing platform Noise is on a mission to help anyone with a smart phone make money from their content.",
+        "published": "Wed, 16 Se",
+        "source": "科技",
+        "summary": "Noise wants to help everyday people  become paid content creators"
+      },
+      {
+        "title": "Pulley, a Carta rival, is shutting down",
+        "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+        "raw": "Pulley, a Carta rival, is shutting down Cap table management platform Pulley, backed by General Catalyst, Stripe, and Founders Fund,   announced that it's closing shop in December.",
+        "published": "Wed, 16 Se",
+        "source": "科技",
+        "summary": "Pulley, a Carta rival, is shutting down"
+      },
+      {
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+        "raw": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent? Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+        "published": "Wed, 16 Se",
+        "source": "科技",
+        "summary": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?"
+      },
+      {
+        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+        "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+        "raw": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product? ",
+        "published": "Wed, 16 Se",
+        "source": "科技",
+        "summary": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera"
+      }
+    ],
+    "finance_news": [
+      {
+        "title": "Asian Bonds Decline as Fed Hikes, Dollar Jumps: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/stock-market-today-dow-s-p-live-updates",
+        "raw": "Asian Bonds Decline as Fed Hikes, Dollar Jumps: Markets Wrap Shorter-dated Asian sovereign bonds fell, tracking moves in Treasuries after the Federal Reserve raised interest rates for the first time since 2023 and signaled further tightening to curb inflation. The dollar gained the most since June.",
+        "published": "Wed, 16 Se",
+        "source": "国际财经",
+        "summary": "Asian Bonds Decline as Fed Hikes, Dollar Jumps: Markets Wrap"
+      },
+      {
+        "title": "Oil Extends Drop as Saudi Arabia Moves to Restore Vital Pipeline",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/oil-extends-slump-as-saudi-arabia-moves-to-restore-key-pipeline",
+        "raw": "Oil Extends Drop as Saudi Arabia Moves to Restore Vital Pipeline Oil dropped for a second day on signs of easing Middle East supply disruptions, with a key pipeline being restored.",
+        "published": "Wed, 16 Se",
+        "source": "国际财经",
+        "summary": "Oil Extends Drop as Saudi Arabia Moves to Restore Vital Pipeline"
+      },
+      {
+        "title": "Boehly, Walter Sell Chelsea Stakes to Clearlake After Rocky Era",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/boehly-walter-sell-chelsea-stakes-to-clearlake-after-rocky-era",
+        "raw": "Boehly, Walter Sell Chelsea Stakes to Clearlake After Rocky Era Chelsea Football Club owner Clearlake Capital agreed to buy out chairman Todd Boehly and director Mark Walter, bringing an end to a turbulent period among the clubs owners.",
+        "published": "Wed, 16 Se",
+        "source": "国际财经",
+        "summary": "Boehly, Walter Sell Chelsea Stakes to Clearlake After Rocky Era"
+      },
+      {
+        "title": "Asia Risks Unrest as El Niño, War Threaten Food Supplies, Consultancy Says",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/asia-risks-unrest-as-el-nino-war-threaten-food-supplies-consultancy-says",
+        "raw": "Asia Risks Unrest as El Niño, War Threaten Food Supplies, Consultancy Says Severe weather disruptions will amplify food security risks in Asia, potentially triggering civil unrest and political instability in vulnerable countries such as India, Indonesia and the Philippines, according to consultancy Verisk Maplecroft.",
+        "published": "Wed, 16 Se",
+        "source": "国际财经",
+        "summary": "Asia Risks Unrest as El Niño, War Threaten Food Supplies, Consultancy Says"
+      },
+      {
+        "title": "Chelsea Strikes Deal for Exit of Walter, Boehly as Shareholders",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/chelsea-strikes-deal-for-exit-of-walter-boehly-as-shareholders-mu4qaexb",
+        "raw": "Chelsea Strikes Deal for Exit of Walter, Boehly as Shareholders Chelsea Football Club owners Clearlake Capital agreed to buy out chairman Todd Boehly and director Mark Walter, bringing an end to a turbulent period among the clubs owners.",
+        "published": "Wed, 16 Se",
+        "source": "国际财经",
+        "summary": "Chelsea Strikes Deal for Exit of Walter, Boehly as Shareholders"
+      }
+    ],
+    "ai_news": [
+      {
+        "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+        "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+        "raw": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent? Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+        "published": "Wed, 16 Se",
+        "source": "全球AI",
+        "summary": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?"
+      },
+      {
+        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+        "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+        "raw": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product? ",
+        "published": "Wed, 16 Se",
+        "source": "全球AI",
+        "summary": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera"
+      },
+      {
+        "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+        "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+        "raw": "AI labs want in-house auditors — but maybe they should shut the front door first There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+        "published": "Wed, 16 Se",
+        "source": "全球AI",
+        "summary": "AI labs want in-house auditors — but maybe they should shut the front door first"
+      },
+      {
+        "title": "Your AI agents can now control your Google Home devices",
+        "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+        "raw": "Your AI agents can now control your Google Home devices Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+        "published": "Wed, 16 Se",
+        "source": "全球AI",
+        "summary": "Your AI agents can now control your Google Home devices"
+      },
+      {
+        "title": "Anthropic merges Claude chat and Cowork in one interface",
+        "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+        "raw": "Anthropic merges Claude chat and Cowork in one interface Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+        "published": "Wed, 16 Se",
+        "source": "全球AI",
+        "summary": "Anthropic merges Claude chat and Cowork in one interface"
+      }
+    ],
+    "robot_news": [
+      {
+        "title": "Rethinking Robot Safety in the Age of AI",
+        "url": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+        "raw": "Rethinking Robot Safety in the Age of AI \nThis article is brought to you by VicOne.Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed?As AI ",
+        "published": "Wed, 16 Se",
+        "source": "全球机器人",
+        "summary": "Rethinking Robot Safety in the Age of AI"
+      },
+      {
+        "title": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe",
+        "url": "https://spectrum.ieee.org/humanoid-robot-safety",
+        "raw": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe \nDespite the recent deluge of videos of humanoid robots doing backflips and kung-fu, the actual pace of progress towards humanoids that can do economically viable jobs at scale has at times seemed a bit plodding. There are some good reasons for this: a humanoid robot needs to be powerful enough to d",
+        "published": "Tue, 15 Se",
+        "source": "全球机器人",
+        "summary": "Digit 5 May Be the First Humanoid Robot Worker That’s Truly Safe"
+      },
+      {
+        "title": "Video Friday: Humanoid Robot Takes On Monkey Bars",
+        "url": "https://spectrum.ieee.org/video-friday-disaster-response-robots",
+        "raw": "Video Friday: Humanoid Robot Takes On Monkey Bars \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.Humanoids Summit Seoul: 22–23 September 2026, SEOULIROS",
+        "published": "Fri, 11 Se",
+        "source": "全球机器人",
+        "summary": "Video Friday: Humanoid Robot Takes On Monkey Bars"
+      },
+      {
+        "title": "Robots Are Learning to Feel",
+        "url": "https://spectrum.ieee.org/tactile-data-robots",
+        "raw": "Robots Are Learning to Feel \nDexterous manipulation remains one of the biggest barriers keeping robots from successfully tackling a wide range of everyday tasks. A sense of touch could be the key, but a lack of quality data has held back progress. This is now starting to change as academic labs and startups race to build new t",
+        "published": "Thu, 10 Se",
+        "source": "全球机器人",
+        "summary": "Robots Are Learning to Feel"
+      },
+      {
+        "title": "This Robot Will Draw Your Blood Now",
+        "url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+        "raw": "This Robot Will Draw Your Blood Now \nYou sit down and put your arm in the cradle. You press a button. The machine takes it from there.A near-infrared light sweeps your inner elbow, hunting for a vein. A puff of alcohol hits your skin. An ultrasound probe glides across your arm, mapping how deep the vessel runs and which way it bends. ",
+        "published": "Mon, 07 Se",
+        "source": "全球机器人",
+        "summary": "This Robot Will Draw Your Blood Now"
+      }
+    ],
+    "github_trending": [
+      {
+        "source": "GitHub Trending",
+        "title": "Marcos66236/github-stars-history",
+        "url": "https://github.com/Marcos66236/github-stars-history",
+        "raw": "Marcos66236/github-stars-history: Track and visualize the stars history of any GitHub repository. Open-source growth analytics and velocity tracking. Stars:227 Language:Python",
+        "stars": 227,
+        "published": "2026-09-16",
+        "summary": "Marcos66236/github-stars-history"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "vinnylarouge/jevlike",
+        "url": "https://github.com/vinnylarouge/jevlike",
+        "raw": "vinnylarouge/jevlike: None Stars:205 Language:Python",
+        "stars": 205,
+        "published": "2026-09-16",
+        "summary": "vinnylarouge/jevlike"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "korcarc/text-humanizer",
+        "url": "https://github.com/korcarc/text-humanizer",
+        "raw": "korcarc/text-humanizer: text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero Stars:72 Language:Python",
+        "stars": 72,
+        "published": "2026-09-16",
+        "summary": "korcarc/text-humanizer"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "ctdal/cve-2026-41940-PoC",
+        "url": "https://github.com/ctdal/cve-2026-41940-PoC",
+        "raw": "ctdal/cve-2026-41940-PoC: A cPanel and WHM authentication bypassing tool Stars:68 Language:Python",
+        "stars": 68,
+        "published": "2026-09-16",
+        "summary": "ctdal/cve-2026-41940-PoC"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "awlevin/typesafe-computer-use",
+        "url": "https://github.com/awlevin/typesafe-computer-use",
+        "raw": "awlevin/typesafe-computer-use: Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS. Stars:62 Language:Python",
+        "stars": 62,
+        "published": "2026-09-16",
+        "summary": "awlevin/typesafe-computer-use"
+      }
+    ],
+    "claude_code": [
+      {
+        "source": "GitHub",
+        "title": "onmyway133/claude-code-tips-tricks",
+        "url": "https://github.com/onmyway133/claude-code-tips-tricks",
+        "raw": "onmyway133/claude-code-tips-tricks: My favorite Claude Code tips & tricks",
+        "stars": 87,
+        "published": "2026-09-13",
+        "summary": "onmyway133/claude-code-tips-tricks"
+      },
+      {
+        "source": "GitHub",
+        "title": "kruzovic7/ai-data-extractor",
+        "url": "https://github.com/kruzovic7/ai-data-extractor",
+        "raw": "kruzovic7/ai-data-extractor: Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+        "stars": 826,
+        "published": "2026-09-11",
+        "summary": "kruzovic7/ai-data-extractor"
+      },
+      {
+        "source": "GitHub",
+        "title": "agentverse-os/AgentVerse-OS",
+        "url": "https://github.com/agentverse-os/AgentVerse-OS",
+        "raw": "agentverse-os/AgentVerse-OS: Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+        "stars": 679,
+        "published": "2026-09-12",
+        "summary": "agentverse-os/AgentVerse-OS"
+      },
+      {
+        "source": "GitHub",
+        "title": "viettranx/3dviz-pro-max",
+        "url": "https://github.com/viettranx/3dviz-pro-max",
+        "raw": "viettranx/3dviz-pro-max: Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+        "stars": 426,
+        "published": "2026-09-10",
+        "summary": "viettranx/3dviz-pro-max"
+      },
+      {
+        "source": "GitHub",
+        "title": "mpociot/claude-siri-ai",
+        "url": "https://github.com/mpociot/claude-siri-ai",
+        "raw": "mpociot/claude-siri-ai: Experimental macOS 27 App Intents model delegation provider backed by Claude Code",
+        "stars": 190,
+        "published": "2026-09-14",
+        "summary": "mpociot/claude-siri-ai"
+      }
+    ]
+  }
+}
