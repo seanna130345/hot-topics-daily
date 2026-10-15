@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-15 07:59",
+  "gold": {
+    "price": 887.8456340926263,
+    "change": 4.601239088848615,
+    "change_pct": 0.5209474427323069
+  },
+  "sections": {
+    "world_news": [
+      {
+        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+        "raw": "Musk says US government may be behind slowdown of Ukraine drone speeds Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+        "published": "Wed, 14 Oc",
+        "source": "国际新闻",
+        "summary": "Musk says US government may be behind slowdown of Ukraine drone speeds"
+      },
+      {
+        "title": "Student protesters attack government buildings in Albania",
+        "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+        "raw": "Student protesters attack government buildings in Albania Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
+        "published": "Wed, 14 Oc",
+        "source": "国际新闻",
+        "summary": "Student protesters attack government buildings in Albania"
+      },
+      {
+        "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+        "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+        "raw": "Pope walking and recovering 'as expected' after surgery, doctors say The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
+        "published": "Wed, 14 Oc",
+        "source": "国际新闻",
+        "summary": "Pope walking and recovering 'as expected' after surgery, doctors say"
+      },
+      {
+        "title": "US inflation rises more than expected - here's what is happening with prices",
+        "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+        "raw": "US inflation rises more than expected - here's what is happening with prices The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+        "published": "Wed, 14 Oc",
+        "source": "国际新闻",
+        "summary": "US inflation rises more than expected - here's what is happening with prices"
+      },
+      {
+        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+        "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+        "raw": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+        "published": "Wed, 14 Oc",
+        "source": "国际新闻",
+        "summary": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines"
+      }
+    ],
+    "china_news": [
+      {
+        "title": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7252946.shtml",
+        "raw": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t \n\t\t\t\t　　原标题：”光纤之父”高锟离世 享年84岁\n　　据香港媒体报道，香港中文大学前校长、有“光纤之父”之称的高锟，今天（9月23日）下午在医院离世，享年84岁。\n\n　　高锟光纤、宽带传送等科技成就极高，在国际学术领域获奖无数，并在2009年10月6日获得诺贝尔物理学奖，以表扬其“....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7224643.shtml",
+        "raw": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t \n\t\t\t\t　　原标题：我在瑞典学习工作12年，这台辱华节目槽点多到不忍直视\n　　文/ doufu\n　　观察者网、环球时报等已经对瑞典国家电视台播放的辱华电视节目“Svenska Nyheter（瑞典新闻）”做了翻译和介绍，我再发布个人版本的翻译意义很小，因此我决定做一些补充性的说明，并表达一些个....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2018-09-23/doc-ihkmwytn7197076.shtml",
+        "raw": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t \n\t\t\t\t原标题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　中新社香港9月23日电 题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　作者 香企容\n　　广深港高铁香港段(高铁香港段)23日正式通车，500多名搭乘香港西九龙站首发列车的乘....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7187370.shtml",
+        "raw": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t \n\t\t\t\t　　原标题：这位市委书记香港请大师写“符文” 放枕下求保佑\n　　撰文 | 韩兵   \n　　9月20日，黑龙江省举行了反腐败警示教育大会，现职省级领导和省直单位主要负责同志、纪委书记（纪检监察组长）等432人到场学习。\n　　据了解，这是黑龙江省首次举办这样规模的警示教....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ifxeuwwr7474087.shtml",
+        "raw": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t \n\t\t\t\t　　原标题：头条 | 让美国失望了！“制裁”难阻中国进口军备，反而会――\n　　据《日本经济新闻》9月22日报道，特朗普政府20日决定对中国军方高官等实施制裁，理由是相关人员和机构违反《以制裁反击美国敌人法》从俄罗斯进口军事装备。\n　　报道称，特朗普政府将俄罗斯最重视的军....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t"
+      }
+    ],
+    "tech_news": [
+      {
+        "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+        "url": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+        "raw": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+        "published": "Wed, 14 Oc",
+        "source": "科技",
+        "summary": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals"
+      },
+      {
+        "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+        "url": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+        "raw": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+        "published": "Wed, 14 Oc",
+        "source": "科技",
+        "summary": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes"
+      },
+      {
+        "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+        "url": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+        "raw": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+        "published": "Wed, 14 Oc",
+        "source": "科技",
+        "summary": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO"
+      },
+      {
+        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+        "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+        "raw": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+        "published": "Wed, 14 Oc",
+        "source": "科技",
+        "summary": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different"
+      },
+      {
+        "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+        "url": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+        "raw": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+        "published": "Wed, 14 Oc",
+        "source": "科技",
+        "summary": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts"
+      }
+    ],
+    "finance_news": [
+      {
+        "title": "Gold Holds Loss as Hot Inflation Lifts October Rate-Hike Bets",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-14/gold-holds-loss-as-hot-inflation-lifts-october-rate-hike-bets",
+        "raw": "Gold Holds Loss as Hot Inflation Lifts October Rate-Hike Bets Gold held a decline as a jump in US inflation stoked worries the Federal Reserve will have to raise interest rates further to keep prices under control.",
+        "published": "Wed, 14 Oc",
+        "source": "国际财经",
+        "summary": "Gold Holds Loss as Hot Inflation Lifts October Rate-Hike Bets"
+      },
+      {
+        "title": "India's NIIF Eyes $800M Data Center Investment",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-14/india-s-niif-eyes-800m-data-center-investment-video",
+        "raw": "India's NIIF Eyes $800M Data Center Investment The National Investment and Infrastructure Fund (NIIF) is likely to draw as much as $3.2 billion in investments for one of its entities and between $700 million to $800 million of that will go to data centers, Chief Executive Officer Sanjiv Aggarwal told Bloomberg's Yvonne Man in an interview on the",
+        "published": "Wed, 14 Oc",
+        "source": "国际财经",
+        "summary": "India's NIIF Eyes $800M Data Center Investment"
+      },
+      {
+        "title": "Asian Stocks to Fall as Hot CPI Sparks US Selloff: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
+        "raw": "Asian Stocks to Fall as Hot CPI Sparks US Selloff: Markets Wrap Asian stocks were set to decline, tracking a tech-led Wall Street selloff after hotter-than-expected US inflation fueled bets on more aggressive Federal Reserve rate hikes. The dollar rose.",
+        "published": "Wed, 14 Oc",
+        "source": "国际财经",
+        "summary": "Asian Stocks to Fall as Hot CPI Sparks US Selloff: Markets Wrap"
+      },
+      {
+        "title": "Latest Oil Market News and Analysis for Oct. 15",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-14/latest-oil-market-news-and-analysis-for-oct-15",
+        "raw": "Latest Oil Market News and Analysis for Oct. 15 Oil held a gain as a flare-up in attacks from Russia to the Middle East threatened supply that only recently recovered to near pre-war levels.",
+        "published": "Wed, 14 Oc",
+        "source": "国际财经",
+        "summary": "Latest Oil Market News and Analysis for Oct. 15"
+      },
+      {
+        "title": "China’s Backdoor Bond-Buying Talk Swirls on $600 Billion Buildup",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-14/china-s-backdoor-bond-buying-talk-swirls-on-600-billion-buildup",
+        "raw": "China’s Backdoor Bond-Buying Talk Swirls on $600 Billion Buildup Like many on Wall Street, DoubleLine’s Vitaliy Liberman has made a habit out of keeping tabs on foreign ownership of US debt securities, looking for signs of any broad-based pullback in retaliation for Donald Trump’s zero-sum trade policies. Month after month, he noticed something peculiar.",
+        "published": "Wed, 14 Oc",
+        "source": "国际财经",
+        "summary": "China’s Backdoor Bond-Buying Talk Swirls on $600 Billion Buildup"
+      }
+    ],
+    "ai_news": [
+      {
+        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+        "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+        "raw": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+        "published": "Wed, 14 Oc",
+        "source": "全球AI",
+        "summary": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different"
+      },
+      {
+        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+        "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+        "raw": "YouTube Music launches new labels as AI-generated music floods streaming platforms The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+        "published": "Wed, 14 Oc",
+        "source": "全球AI",
+        "summary": "YouTube Music launches new labels as AI-generated music floods streaming platforms"
+      },
+      {
+        "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+        "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+        "raw": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+        "published": "Wed, 14 Oc",
+        "source": "全球AI",
+        "summary": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence"
+      },
+      {
+        "title": "Deezer will soon let you filter out AI-generated music",
+        "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+        "raw": "Deezer will soon let you filter out AI-generated music Deezer said that the new toggle will be rolled out by the end of the year.",
+        "published": "Wed, 14 Oc",
+        "source": "全球AI",
+        "summary": "Deezer will soon let you filter out AI-generated music"
+      },
+      {
+        "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+        "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+        "raw": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+        "published": "Wed, 14 Oc",
+        "source": "全球AI",
+        "summary": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West"
+      }
+    ],
+    "robot_news": [
+      {
+        "title": "Q&A: Mars Perseverance Rover Sets a Distance Record",
+        "url": "https://spectrum.ieee.org/mars-rover-distance-record",
+        "raw": "Q&A: Mars Perseverance Rover Sets a Distance Record \nOn October 11, the Perseverance rover completed a drive that brought its total distance traveled on Mars to 28.10 miles (45.22 kilometers). This is a new record for Mars rovers, enabled in large part by Perseverance’s ability to drive with much more autonomy than its predecessors. Over the last fiv",
+        "published": "Tue, 13 Oc",
+        "source": "全球机器人",
+        "summary": "Q&A: Mars Perseverance Rover Sets a Distance Record"
+      },
+      {
+        "title": "Video Friday: Robot Decommissioning Takes a Fun Turn",
+        "url": "https://spectrum.ieee.org/video-friday-reachy-mini-raps",
+        "raw": "Video Friday: Robot Decommissioning Takes a Fun Turn \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.CoRL 2026: 9–12 November 2026, AUSTINHumanoids 2026: 6–",
+        "published": "Fri, 09 Oc",
+        "source": "全球机器人",
+        "summary": "Video Friday: Robot Decommissioning Takes a Fun Turn"
+      },
+      {
+        "title": "This Disembodied Hand Is All the Robot You Need",
+        "url": "https://spectrum.ieee.org/walking-robotic-hand",
+        "raw": "This Disembodied Hand Is All the Robot You Need \nA hand attached to the end of an arm is a given for most humans, but what if robots didn’t have to play by the same rules as we do? Researchers from ETH Zurich have turned an off-the-shelf robotic hand into a completely self-contained robot that walks on its fingertips while using those same finger",
+        "published": "Thu, 08 Oc",
+        "source": "全球机器人",
+        "summary": "This Disembodied Hand Is All the Robot You Need"
+      },
+      {
+        "title": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction",
+        "url": "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/",
+        "raw": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction \nThis White Paper gives robotics researchers and engineers an overview of a new large-scale motion capture dataset built to close the data gap limiting humanoid robot learning. It also shows how policies trained on the dataset transfer to a real humanoid robot.What you will learn about: Why humanoid",
+        "published": "Wed, 07 Oc",
+        "source": "全球机器人",
+        "summary": "HiPHI: A Large-Scale Benchmark for High-Precision Human Motion and Object Interaction"
+      },
+      {
+        "title": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away",
+        "url": "https://spectrum.ieee.org/video-friday-bioinspired-robotics",
+        "raw": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.CoRL 2026: 9–12 November 2026, AUSTINHumanoids 2026: 6–",
+        "published": "Fri, 02 Oc",
+        "source": "全球机器人",
+        "summary": "Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away"
+      }
+    ],
+    "github_trending": [
+      {
+        "source": "GitHub Trending",
+        "title": "serenadestoriesparis/serenade-stories-paris",
+        "url": "https://github.com/serenadestoriesparis/serenade-stories-paris",
+        "raw": "serenadestoriesparis/serenade-stories-paris: None Stars:0 Language:None",
+        "stars": 0,
+        "published": "2026-10-15",
+        "summary": "serenadestoriesparis/serenade-stories-paris"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "aws-aemilia-kix/react-app3081558132211496",
+        "url": "https://github.com/aws-aemilia-kix/react-app3081558132211496",
+        "raw": "aws-aemilia-kix/react-app3081558132211496: None Stars:0 Language:None",
+        "stars": 0,
+        "published": "2026-10-15",
+        "summary": "aws-aemilia-kix/react-app3081558132211496"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "dandizarrs/b4d0b08c-3da1-4b30-b328-ec689de528ba",
+        "url": "https://github.com/dandizarrs/b4d0b08c-3da1-4b30-b328-ec689de528ba",
+        "raw": "dandizarrs/b4d0b08c-3da1-4b30-b328-ec689de528ba: Zarr b4d0b08c-3da1-4b30-b328-ec689de528ba of Dandiset 001412 Stars:0 Language:None",
+        "stars": 0,
+        "published": "2026-10-15",
+        "summary": "dandizarrs/b4d0b08c-3da1-4b30-b328-ec689de528ba"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "iuribrns/GUARDIAO_DA_NATUREZA",
+        "url": "https://github.com/iuribrns/GUARDIAO_DA_NATUREZA",
+        "raw": "iuribrns/GUARDIAO_DA_NATUREZA: None Stars:0 Language:None",
+        "stars": 0,
+        "published": "2026-10-15",
+        "summary": "iuribrns/GUARDIAO_DA_NATUREZA"
+      }
+    ],
+    "claude_code": [
+      {
+        "source": "GitHub",
+        "title": "YeonwooSung/my-claude-code-mods",
+        "url": "https://github.com/YeonwooSung/my-claude-code-mods",
+        "raw": "YeonwooSung/my-claude-code-mods: Custom Claude Code Mods that I need",
+        "stars": 776,
+        "published": "2026-10-09",
+        "summary": "YeonwooSung/my-claude-code-mods"
+      },
+      {
+        "source": "GitHub",
+        "title": "Arekejoker/qwen21-nsfw-pose-skill",
+        "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+        "raw": "Arekejoker/qwen21-nsfw-pose-skill: Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+        "stars": 1246,
+        "published": "2026-10-13",
+        "summary": "Arekejoker/qwen21-nsfw-pose-skill"
+      },
+      {
+        "source": "GitHub",
+        "title": "nateherkai/roast-room",
+        "url": "https://github.com/nateherkai/roast-room",
+        "raw": "nateherkai/roast-room: Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+        "stars": 522,
+        "published": "2026-10-10",
+        "summary": "nateherkai/roast-room"
+      },
+      {
+        "source": "GitHub",
+        "title": "liyupi/ai-promo-video-maker",
+        "url": "https://github.com/liyupi/ai-promo-video-maker",
+        "raw": "liyupi/ai-promo-video-maker: 一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 AI 旁白并逐句转写校验、自动审图，最后交付一支 4K 商业宣传视频和可在线播放的网页版。App、网站、SaaS、开源项目、课程、AI 模型都能做，你只需确认需求、试听配乐。不用学剪辑软件，也不用花钱找外包。基于 Remotion + ElevenLabs，可直接克隆使用，也能一键安装为 Agent Skill。",
+        "stars": 267,
+        "published": "2026-10-09",
+        "summary": "liyupi/ai-promo-video-maker"
+      },
+      {
+        "source": "GitHub",
+        "title": "Atoll92/agent-standup",
+        "url": "https://github.com/Atoll92/agent-standup",
+        "raw": "Atoll92/agent-standup: Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero tokens.",
+        "stars": 207,
+        "published": "2026-10-10",
+        "summary": "Atoll92/agent-standup"
+      }
+    ]
+  }
+}
