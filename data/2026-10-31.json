@@ -1,0 +1,356 @@
+{
+  "date": "2026-10-31 08:54",
+  "gold": {
+    "price": 831.0127532271287,
+    "change": -31.337580979632662,
+    "change_pct": -3.6339733095202824
+  },
+  "sections": {
+    "world_news": [
+      {
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "raw": "US approves sale of 500 Patriot missiles to Ukraine The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+        "published": "Sat, 31 Oc",
+        "source": "国际新闻",
+        "summary": "US approves sale of 500 Patriot missiles to Ukraine"
+      },
+      {
+        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+        "raw": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "published": "Fri, 30 Oc",
+        "source": "国际新闻",
+        "summary": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea"
+      },
+      {
+        "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+        "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+        "raw": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution It is Pike's first public statement since she survived an execution attempt by lethal injection in September. ",
+        "published": "Fri, 30 Oc",
+        "source": "国际新闻",
+        "summary": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution"
+      },
+      {
+        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "raw": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+        "published": "Fri, 30 Oc",
+        "source": "国际新闻",
+        "summary": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire"
+      },
+      {
+        "title": "Police deployed during stand-off over control of top Poland court",
+        "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+        "raw": "Police deployed during stand-off over control of top Poland court The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+        "published": "Fri, 30 Oc",
+        "source": "国际新闻",
+        "summary": "Police deployed during stand-off over control of top Poland court"
+      }
+    ],
+    "china_news": [
+      {
+        "title": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7252946.shtml",
+        "raw": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t \n\t\t\t\t　　原标题：”光纤之父”高锟离世 享年84岁\n　　据香港媒体报道，香港中文大学前校长、有“光纤之父”之称的高锟，今天（9月23日）下午在医院离世，享年84岁。\n\n　　高锟光纤、宽带传送等科技成就极高，在国际学术领域获奖无数，并在2009年10月6日获得诺贝尔物理学奖，以表扬其“....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7224643.shtml",
+        "raw": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t \n\t\t\t\t　　原标题：我在瑞典学习工作12年，这台辱华节目槽点多到不忍直视\n　　文/ doufu\n　　观察者网、环球时报等已经对瑞典国家电视台播放的辱华电视节目“Svenska Nyheter（瑞典新闻）”做了翻译和介绍，我再发布个人版本的翻译意义很小，因此我决定做一些补充性的说明，并表达一些个....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2018-09-23/doc-ihkmwytn7197076.shtml",
+        "raw": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t \n\t\t\t\t原标题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　中新社香港9月23日电 题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　作者 香企容\n　　广深港高铁香港段(高铁香港段)23日正式通车，500多名搭乘香港西九龙站首发列车的乘....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7187370.shtml",
+        "raw": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t \n\t\t\t\t　　原标题：这位市委书记香港请大师写“符文” 放枕下求保佑\n　　撰文 | 韩兵   \n　　9月20日，黑龙江省举行了反腐败警示教育大会，现职省级领导和省直单位主要负责同志、纪委书记（纪检监察组长）等432人到场学习。\n　　据了解，这是黑龙江省首次举办这样规模的警示教....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ifxeuwwr7474087.shtml",
+        "raw": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t \n\t\t\t\t　　原标题：头条 | 让美国失望了！“制裁”难阻中国进口军备，反而会――\n　　据《日本经济新闻》9月22日报道，特朗普政府20日决定对中国军方高官等实施制裁，理由是相关人员和机构违反《以制裁反击美国敌人法》从俄罗斯进口军事装备。\n　　报道称，特朗普政府将俄罗斯最重视的军....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t"
+      }
+    ],
+    "tech_news": [
+      {
+        "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+        "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+        "raw": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune The AI logistics startup will bolster the CRM giant's Missionforce defense platform. \n",
+        "published": "Fri, 30 Oc",
+        "source": "科技",
+        "summary": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune"
+      },
+      {
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+        "raw": "Ollie, a privacy-focused AI assistant, is shutting down As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+        "published": "Fri, 30 Oc",
+        "source": "科技",
+        "summary": "Ollie, a privacy-focused AI assistant, is shutting down"
+      },
+      {
+        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+        "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+        "raw": "Intel’s stock crashes, knocking $12B from government’s stake Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+        "published": "Fri, 30 Oc",
+        "source": "科技",
+        "summary": "Intel’s stock crashes, knocking $12B from government’s stake"
+      },
+      {
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "raw": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+        "published": "Fri, 30 Oc",
+        "source": "科技",
+        "summary": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says"
+      },
+      {
+        "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+        "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+        "raw": "Applebee’s exposed customers’ personal data after leaving database password in app EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+        "published": "Fri, 30 Oc",
+        "source": "科技",
+        "summary": "Applebee’s exposed customers’ personal data after leaving database password in app"
+      }
+    ],
+    "finance_news": [
+      {
+        "title": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-29/stock-market-today-dow-s-p-live-updates",
+        "raw": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap Wall Street got a reality check as a bruising selloff in technology shares fueled concern the artificial-intelligence frenzy that has powered the equity bull market might be overblown.",
+        "published": "Thu, 29 Oc",
+        "source": "国际财经",
+        "summary": "Stocks Slump as Wall Street Gets AI Wake-Up Call: Markets Wrap"
+      },
+      {
+        "title": "Chocolate Price Spook Families for Halloween",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-30/chocolate-price-spook-families-for-halloween-video",
+        "raw": "Chocolate Price Spook Families for Halloween Halloween candy is getting more expensive as higher labor, energy and transportation costs continue to pressure food prices. Stew Leonard Jr., CEO of Stew Leonard’s, says bags of popular candy are up about 50 cents from last year, prompting some shoppers to trade down to cheaper options. He joins Bl",
+        "published": "Fri, 30 Oc",
+        "source": "国际财经",
+        "summary": "Chocolate Price Spook Families for Halloween"
+      },
+      {
+        "title": "Crypto Hack Reignites Regulatory Debate",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video",
+        "raw": "Crypto Hack Reignites Regulatory Debate A $6 billion crypto hack is putting digital-asset security back in the spotlight. Former CFTC chairman J. Christopher Giancarlo, known as “CryptoDad”, argues the attack exposed vulnerabilities at an individual firm rather than a failure of underlying blockchain technology. He is also calling for the",
+        "published": "Fri, 30 Oc",
+        "source": "国际财经",
+        "summary": "Crypto Hack Reignites Regulatory Debate"
+      },
+      {
+        "title": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-30/lonnie-ali-marc-rosen-on-new-muhammad-ali-amazon-show-video",
+        "raw": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show Lonnie Ali, Muhammad Ali's wife & Executive Producer of The Greatest, joins Marc Rosen of Authentic Brands to discuss the first authorized scripted series to take a more intimate look at Muhammad Ali beyond his boxing career. The two speak with Romaine Bostick on \"The Close\" on October 29, 2026. (So",
+        "published": "Fri, 30 Oc",
+        "source": "国际财经",
+        "summary": "Lonnie Ali & Marc Rosen on New Muhammad Ali Amazon Show"
+      },
+      {
+        "title": "Bloomberg Screentime: Streaming, AI & Creators",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-30/bloomberg-screentime-streaming-ai-creators-video",
+        "raw": "Bloomberg Screentime: Streaming, AI & Creators Entertainment leaders examine how streaming, AI, and the creator economy are reshaping Hollywood and the future of media. Guests include Ted Sarandos, Donna Langley, Ben Affleck, & Conan O'Brien. (Source: Bloomberg)",
+        "published": "Fri, 30 Oc",
+        "source": "国际财经",
+        "summary": "Bloomberg Screentime: Streaming, AI & Creators"
+      }
+    ],
+    "ai_news": [
+      {
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+        "raw": "Ollie, a privacy-focused AI assistant, is shutting down As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
+        "published": "Fri, 30 Oc",
+        "source": "全球AI",
+        "summary": "Ollie, a privacy-focused AI assistant, is shutting down"
+      },
+      {
+        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+        "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+        "raw": "Intel’s stock crashes, knocking $12B from government’s stake Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+        "published": "Fri, 30 Oc",
+        "source": "全球AI",
+        "summary": "Intel’s stock crashes, knocking $12B from government’s stake"
+      },
+      {
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "raw": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+        "published": "Fri, 30 Oc",
+        "source": "全球AI",
+        "summary": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says"
+      },
+      {
+        "title": "Last-minute Halloween costumes for tech nerds",
+        "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+        "raw": "Last-minute Halloween costumes for tech nerds No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+        "published": "Fri, 30 Oc",
+        "source": "全球AI",
+        "summary": "Last-minute Halloween costumes for tech nerds"
+      },
+      {
+        "title": "Cracks are emerging in the AI spending boom",
+        "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+        "raw": "Cracks are emerging in the AI spending boom Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+        "published": "Fri, 30 Oc",
+        "source": "全球AI",
+        "summary": "Cracks are emerging in the AI spending boom"
+      }
+    ],
+    "robot_news": [
+      {
+        "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
+        "url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
+        "raw": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.CoRL 2026: 9–12 November 2026, AUSTINHumanoids 2026: 6–",
+        "published": "Fri, 30 Oc",
+        "source": "全球机器人",
+        "summary": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation"
+      },
+      {
+        "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+        "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+        "raw": "Your Robot’s Safety Functions Already Work. What If the Input Lies? \nThis article is brought to you by VicOne.A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position est",
+        "published": "Tue, 27 Oc",
+        "source": "全球机器人",
+        "summary": "Your Robot’s Safety Functions Already Work. What If the Input Lies?"
+      },
+      {
+        "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+        "url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+        "raw": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.CoRL 2026: 9–12 November 2026, AUSTINHumanoids 2026: 6–",
+        "published": "Fri, 23 Oc",
+        "source": "全球机器人",
+        "summary": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself"
+      },
+      {
+        "title": "The Robot I Didn’t Expect to Build",
+        "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+        "raw": "The Robot I Didn’t Expect to Build \nAgility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the ",
+        "published": "Mon, 19 Oc",
+        "source": "全球机器人",
+        "summary": "The Robot I Didn’t Expect to Build"
+      },
+      {
+        "title": "Video Friday: When Two Robots Become One",
+        "url": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
+        "raw": "Video Friday: When Two Robots Become One \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.CoRL 2026: 9–12 November 2026, AUSTINHumanoids 2026: 6–",
+        "published": "Fri, 16 Oc",
+        "source": "全球机器人",
+        "summary": "Video Friday: When Two Robots Become One"
+      }
+    ],
+    "github_trending": [
+      {
+        "source": "GitHub Trending",
+        "title": "marzukia/mlx-rocm",
+        "url": "https://github.com/marzukia/mlx-rocm",
+        "raw": "marzukia/mlx-rocm: MLX on ROCm Stars:5 Language:Python",
+        "stars": 5,
+        "published": "2026-10-31",
+        "summary": "marzukia/mlx-rocm"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "Siulnarf/administrador-activacion-windows",
+        "url": "https://github.com/Siulnarf/administrador-activacion-windows",
+        "raw": "Siulnarf/administrador-activacion-windows: Herramienta en BAT para consultar y administrar la activación de Windows: verificar estado y vencimiento, instalar claves de producto y configurar servidores KMS autorizados. Utiliza herramientas integradas de Windows y requiere una licencia válida. Stars:2 Language:Batchfile",
+        "stars": 2,
+        "published": "2026-10-31",
+        "summary": "Siulnarf/administrador-activacion-windows"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "chaffrey8/DMEMCD_2026",
+        "url": "https://github.com/chaffrey8/DMEMCD_2026",
+        "raw": "chaffrey8/DMEMCD_2026: Repositorio para el módulo 1 del Diplomado Métodos Estadísticos y Matemáticos para la Ciencia de Datos, impartido en el año 2026. Stars:2 Language:None",
+        "stars": 2,
+        "published": "2026-10-31",
+        "summary": "chaffrey8/DMEMCD_2026"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "YixuanChenCS/cis_5500_final_project_group_16",
+        "url": "https://github.com/YixuanChenCS/cis_5500_final_project_group_16",
+        "raw": "YixuanChenCS/cis_5500_final_project_group_16: None Stars:2 Language:None",
+        "stars": 2,
+        "published": "2026-10-31",
+        "summary": "YixuanChenCS/cis_5500_final_project_group_16"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "carlosrincones312-ui/proyecto-servidor-Minecraft-creador-valcam",
+        "url": "https://github.com/carlosrincones312-ui/proyecto-servidor-Minecraft-creador-valcam",
+        "raw": "carlosrincones312-ui/proyecto-servidor-Minecraft-creador-valcam: None Stars:1 Language:None",
+        "stars": 1,
+        "published": "2026-10-31",
+        "summary": "carlosrincones312-ui/proyecto-servidor-Minecraft-creador-valcam"
+      }
+    ],
+    "claude_code": [
+      {
+        "source": "GitHub",
+        "title": "andyhuo520/digital-human-koubo",
+        "url": "https://github.com/andyhuo520/digital-human-koubo",
+        "raw": "andyhuo520/digital-human-koubo: AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+        "stars": 1553,
+        "published": "2026-10-26",
+        "summary": "andyhuo520/digital-human-koubo"
+      },
+      {
+        "source": "GitHub",
+        "title": "DenisSergeevitch/ex-ussr-kinship-research",
+        "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+        "raw": "DenisSergeevitch/ex-ussr-kinship-research: Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+        "stars": 1345,
+        "published": "2026-10-25",
+        "summary": "DenisSergeevitch/ex-ussr-kinship-research"
+      },
+      {
+        "source": "GitHub",
+        "title": "mochiiwuff/capri-desktop",
+        "url": "https://github.com/mochiiwuff/capri-desktop",
+        "raw": "mochiiwuff/capri-desktop: Capri, the Project Capricorn construct from Cyberpunk: Edgerunners 2, living on your desktop and narrating what Claude Code is doing.",
+        "stars": 439,
+        "published": "2026-10-25",
+        "summary": "mochiiwuff/capri-desktop"
+      },
+      {
+        "source": "GitHub",
+        "title": "patch-gg/pixelfx",
+        "url": "https://github.com/patch-gg/pixelfx",
+        "raw": "patch-gg/pixelfx: 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "stars": 310,
+        "published": "2026-10-30",
+        "summary": "patch-gg/pixelfx"
+      },
+      {
+        "source": "GitHub",
+        "title": "jmanico/grim-prompter",
+        "url": "https://github.com/jmanico/grim-prompter",
+        "raw": "jmanico/grim-prompter: Threat modeling for AI coding agents: point Claude Code, Codex or any agent at your repo and get an evidence-traced threat model. 36 architectures, 29 methods, MIT.",
+        "stars": 253,
+        "published": "2026-10-28",
+        "summary": "jmanico/grim-prompter"
+      }
+    ]
+  }
+}
