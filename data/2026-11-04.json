@@ -1,0 +1,356 @@
+{
+  "date": "2026-11-04 09:31",
+  "gold": {
+    "price": 849.5660359766586,
+    "change": 4.375668333145768,
+    "change_pct": 0.5177139376713001
+  },
+  "sections": {
+    "world_news": [
+      {
+        "title": "Spanish transport minister resigns days after deadly train crash",
+        "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+        "raw": "Spanish transport minister resigns days after deadly train crash At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+        "published": "Tue, 03 No",
+        "source": "国际新闻",
+        "summary": "Spanish transport minister resigns days after deadly train crash"
+      },
+      {
+        "title": "Seven flights across Europe targeted by suspected bomb threats",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+        "raw": "Seven flights across Europe targeted by suspected bomb threats Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+        "published": "Tue, 03 No",
+        "source": "国际新闻",
+        "summary": "Seven flights across Europe targeted by suspected bomb threats"
+      },
+      {
+        "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+        "raw": "Binance says fake job interviews used as part of $6.3bn crypto hack An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+        "published": "Tue, 03 No",
+        "source": "国际新闻",
+        "summary": "Binance says fake job interviews used as part of $6.3bn crypto hack"
+      },
+      {
+        "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+        "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+        "raw": "NTSB says crucial plane parts found three miles from Florida crash site The NTSB said because the parts were found far from the accident site, they fell off before the crash. ",
+        "published": "Tue, 03 No",
+        "source": "国际新闻",
+        "summary": "NTSB says crucial plane parts found three miles from Florida crash site"
+      },
+      {
+        "title": "Libya's top religious authority rules against wearing Nike clothes",
+        "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+        "raw": "Libya's top religious authority rules against wearing Nike clothes The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+        "published": "Tue, 03 No",
+        "source": "国际新闻",
+        "summary": "Libya's top religious authority rules against wearing Nike clothes"
+      }
+    ],
+    "china_news": [
+      {
+        "title": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7252946.shtml",
+        "raw": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t \n\t\t\t\t　　原标题：”光纤之父”高锟离世 享年84岁\n　　据香港媒体报道，香港中文大学前校长、有“光纤之父”之称的高锟，今天（9月23日）下午在医院离世，享年84岁。\n\n　　高锟光纤、宽带传送等科技成就极高，在国际学术领域获奖无数，并在2009年10月6日获得诺贝尔物理学奖，以表扬其“....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7224643.shtml",
+        "raw": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t \n\t\t\t\t　　原标题：我在瑞典学习工作12年，这台辱华节目槽点多到不忍直视\n　　文/ doufu\n　　观察者网、环球时报等已经对瑞典国家电视台播放的辱华电视节目“Svenska Nyheter（瑞典新闻）”做了翻译和介绍，我再发布个人版本的翻译意义很小，因此我决定做一些补充性的说明，并表达一些个....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2018-09-23/doc-ihkmwytn7197076.shtml",
+        "raw": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t \n\t\t\t\t原标题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　中新社香港9月23日电 题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　作者 香企容\n　　广深港高铁香港段(高铁香港段)23日正式通车，500多名搭乘香港西九龙站首发列车的乘....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7187370.shtml",
+        "raw": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t \n\t\t\t\t　　原标题：这位市委书记香港请大师写“符文” 放枕下求保佑\n　　撰文 | 韩兵   \n　　9月20日，黑龙江省举行了反腐败警示教育大会，现职省级领导和省直单位主要负责同志、纪委书记（纪检监察组长）等432人到场学习。\n　　据了解，这是黑龙江省首次举办这样规模的警示教....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ifxeuwwr7474087.shtml",
+        "raw": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t \n\t\t\t\t　　原标题：头条 | 让美国失望了！“制裁”难阻中国进口军备，反而会――\n　　据《日本经济新闻》9月22日报道，特朗普政府20日决定对中国军方高官等实施制裁，理由是相关人员和机构违反《以制裁反击美国敌人法》从俄罗斯进口军事装备。\n　　报道称，特朗普政府将俄罗斯最重视的军....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t"
+      }
+    ],
+    "tech_news": [
+      {
+        "title": "Anthropic is working on a system to prove AI models’ identity",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "raw": "Anthropic is working on a system to prove AI models’ identity Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.\n",
+        "published": "Tue, 03 No",
+        "source": "科技",
+        "summary": "Anthropic is working on a system to prove AI models’ identity"
+      },
+      {
+        "title": "Data centers are turning to old jet engines as the wait for power grows",
+        "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+        "raw": "Data centers are turning to old jet engines as the wait for power grows The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+        "published": "Tue, 03 No",
+        "source": "科技",
+        "summary": "Data centers are turning to old jet engines as the wait for power grows"
+      },
+      {
+        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "raw": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+        "published": "Tue, 03 No",
+        "source": "科技",
+        "summary": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom"
+      },
+      {
+        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+        "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+        "raw": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever. ",
+        "published": "Tue, 03 No",
+        "source": "科技",
+        "summary": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal"
+      },
+      {
+        "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
+        "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+        "raw": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space An in-space construction first could be an enabler for the space data centers of the future. ",
+        "published": "Tue, 03 No",
+        "source": "科技",
+        "summary": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space"
+      }
+    ],
+    "finance_news": [
+      {
+        "title": "Treasuries Rise as Traders React to Democrat Lead in First Votes",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/treasuries-advance-as-traders-eye-us-votes-refinancing-plans",
+        "raw": "Treasuries Rise as Traders React to Democrat Lead in First Votes Treasuries rallied ahead of the Treasury’s quarterly issuance plans, with traders reacting to the first vote counts from the midterm elections which favored the Democrats.",
+        "published": "Wed, 04 No",
+        "source": "国际财经",
+        "summary": "Treasuries Rise as Traders React to Democrat Lead in First Votes"
+      },
+      {
+        "title": "US Stock Futures Drop as Democrats Gain Early Momentum in Vote",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/us-equity-futures-inch-higher-as-investors-await-midterm-results",
+        "raw": "US Stock Futures Drop as Democrats Gain Early Momentum in Vote US stock futures extended losses as early midterm vote counts pointed to a strong Democratic showing, raising worries over tighter regulatory scrutiny in sectors that have powered a bull market on Wall Street.",
+        "published": "Wed, 04 No",
+        "source": "国际财经",
+        "summary": "US Stock Futures Drop as Democrats Gain Early Momentum in Vote"
+      },
+      {
+        "title": "Stocks Drop With Dollar as Count Favors Democrats: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-03/stock-market-today-dow-s-p-live-updates",
+        "raw": "Stocks Drop With Dollar as Count Favors Democrats: Markets Wrap US equity-index futures fell and the dollar weakened as early midterm vote counts and prediction markets pointed to rising chances of a Democratic victory, raising the prospect of gridlock in Washington. Treasuries gained.",
+        "published": "Tue, 03 No",
+        "source": "国际财经",
+        "summary": "Stocks Drop With Dollar as Count Favors Democrats: Markets Wrap"
+      },
+      {
+        "title": "UOB Shares Tumble as Profit Misses Analysts’ Expectations",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-03/uob-profits-miss-estimates-as-lower-trading-income-dampens-gains",
+        "raw": "UOB Shares Tumble as Profit Misses Analysts’ Expectations United Overseas Bank Ltd. reported third-quarter profit that missed expectations, as a decline in trading and investment income combined with narrowing interest margin crimped gains from lending and fees. Shares fell.",
+        "published": "Tue, 03 No",
+        "source": "国际财经",
+        "summary": "UOB Shares Tumble as Profit Misses Analysts’ Expectations"
+      },
+      {
+        "title": "Latest Oil Market News and Analysis for Nov. 4",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-03/latest-oil-market-news-and-analysis-for-nov-4",
+        "raw": "Latest Oil Market News and Analysis for Nov. 4 Oil climbed after a two-day decline as traders weighed conflicting signals on the trajectory of US-Iran peace talks.",
+        "published": "Tue, 03 No",
+        "source": "国际财经",
+        "summary": "Latest Oil Market News and Analysis for Nov. 4"
+      }
+    ],
+    "ai_news": [
+      {
+        "title": "Anthropic is working on a system to prove AI models’ identity",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "raw": "Anthropic is working on a system to prove AI models’ identity Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.\n",
+        "published": "Tue, 03 No",
+        "source": "全球AI",
+        "summary": "Anthropic is working on a system to prove AI models’ identity"
+      },
+      {
+        "title": "Data centers are turning to old jet engines as the wait for power grows",
+        "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+        "raw": "Data centers are turning to old jet engines as the wait for power grows The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+        "published": "Tue, 03 No",
+        "source": "全球AI",
+        "summary": "Data centers are turning to old jet engines as the wait for power grows"
+      },
+      {
+        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "raw": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+        "published": "Tue, 03 No",
+        "source": "全球AI",
+        "summary": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom"
+      },
+      {
+        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+        "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+        "raw": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever. ",
+        "published": "Tue, 03 No",
+        "source": "全球AI",
+        "summary": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal"
+      },
+      {
+        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+        "raw": "AI inference startup Fal doubles its valuation to $16B as demand surges The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+        "published": "Tue, 03 No",
+        "source": "全球AI",
+        "summary": "AI inference startup Fal doubles its valuation to $16B as demand surges"
+      }
+    ],
+    "robot_news": [
+      {
+        "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
+        "url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
+        "raw": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.CoRL 2026: 9–12 November 2026, AUSTINHumanoids 2026: 6–",
+        "published": "Fri, 30 Oc",
+        "source": "全球机器人",
+        "summary": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation"
+      },
+      {
+        "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+        "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+        "raw": "Your Robot’s Safety Functions Already Work. What If the Input Lies? \nThis article is brought to you by VicOne.A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position est",
+        "published": "Tue, 27 Oc",
+        "source": "全球机器人",
+        "summary": "Your Robot’s Safety Functions Already Work. What If the Input Lies?"
+      },
+      {
+        "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+        "url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+        "raw": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.CoRL 2026: 9–12 November 2026, AUSTINHumanoids 2026: 6–",
+        "published": "Fri, 23 Oc",
+        "source": "全球机器人",
+        "summary": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself"
+      },
+      {
+        "title": "The Robot I Didn’t Expect to Build",
+        "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+        "raw": "The Robot I Didn’t Expect to Build \nAgility Robotics, the company I cofounded out of my robotics lab at Oregon State University in 2015, has just launched Digit 5. It’s designed to be the first humanoid robot that can safely and economically do useful work at scale, allowing us to bring tens of thousands of humanoid workers into the ",
+        "published": "Mon, 19 Oc",
+        "source": "全球机器人",
+        "summary": "The Robot I Didn’t Expect to Build"
+      },
+      {
+        "title": "Video Friday: When Two Robots Become One",
+        "url": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
+        "raw": "Video Friday: When Two Robots Become One \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.CoRL 2026: 9–12 November 2026, AUSTINHumanoids 2026: 6–",
+        "published": "Fri, 16 Oc",
+        "source": "全球机器人",
+        "summary": "Video Friday: When Two Robots Become One"
+      }
+    ],
+    "github_trending": [
+      {
+        "source": "GitHub Trending",
+        "title": "MassShoutThaw/Davinci-Resolve-Studio-Premium-Last-Version-2026",
+        "url": "https://github.com/MassShoutThaw/Davinci-Resolve-Studio-Premium-Last-Version-2026",
+        "raw": "MassShoutThaw/Davinci-Resolve-Studio-Premium-Last-Version-2026: DaVinci Resolve Studio is Blackmagic Design’s professional software suite combining video editing, color correction, visual effects (Fusion), and audio post-production (Fairlight) into a single ecosystem. Stars:10 Language:None",
+        "stars": 10,
+        "published": "2026-11-04",
+        "summary": "MassShoutThaw/Davinci-Resolve-Studio-Premium-Last-Version-2026"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "tobi/wrapvm",
+        "url": "https://github.com/tobi/wrapvm",
+        "raw": "tobi/wrapvm: A desktop VM for agents: wrap's base image + XFCE, shared Chrome, agent-browser and agent-desktop. Containerfile + Smolfile. Stars:4 Language:Dockerfile",
+        "stars": 4,
+        "published": "2026-11-04",
+        "summary": "tobi/wrapvm"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "orka-agents/orka-bridge",
+        "url": "https://github.com/orka-agents/orka-bridge",
+        "raw": "orka-agents/orka-bridge: None Stars:2 Language:None",
+        "stars": 2,
+        "published": "2026-11-04",
+        "summary": "orka-agents/orka-bridge"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "PongooDev/Core-ServerAssets",
+        "url": "https://github.com/PongooDev/Core-ServerAssets",
+        "raw": "PongooDev/Core-ServerAssets: Server-only Fortnite assets for Core's game servers: one small pak per build, installed by Core-Launcher Stars:2 Language:None",
+        "stars": 2,
+        "published": "2026-11-04",
+        "summary": "PongooDev/Core-ServerAssets"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "scsx87/static-residential-isp-proxies",
+        "url": "https://github.com/scsx87/static-residential-isp-proxies",
+        "raw": "scsx87/static-residential-isp-proxies: static residential ip usa: dedicated ISP proxies for e-commerce accounts, ad management, and persistent monitoring work Stars:1 Language:None",
+        "stars": 1,
+        "published": "2026-11-04",
+        "summary": "scsx87/static-residential-isp-proxies"
+      }
+    ],
+    "claude_code": [
+      {
+        "source": "GitHub",
+        "title": "patch-gg/pixelfx",
+        "url": "https://github.com/patch-gg/pixelfx",
+        "raw": "patch-gg/pixelfx: 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+        "stars": 4146,
+        "published": "2026-10-30",
+        "summary": "patch-gg/pixelfx"
+      },
+      {
+        "source": "GitHub",
+        "title": "elvarofficial/teardown",
+        "url": "https://github.com/elvarofficial/teardown",
+        "raw": "elvarofficial/teardown: A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+        "stars": 1659,
+        "published": "2026-10-30",
+        "summary": "elvarofficial/teardown"
+      },
+      {
+        "source": "GitHub",
+        "title": "NiazMorshed2007/reanimate",
+        "url": "https://github.com/NiazMorshed2007/reanimate",
+        "raw": "NiazMorshed2007/reanimate: A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+        "stars": 1100,
+        "published": "2026-10-29",
+        "summary": "NiazMorshed2007/reanimate"
+      },
+      {
+        "source": "GitHub",
+        "title": "zhanghao123vip/ai-manju-skills",
+        "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+        "raw": "zhanghao123vip/ai-manju-skills: 21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+        "stars": 558,
+        "published": "2026-10-31",
+        "summary": "zhanghao123vip/ai-manju-skills"
+      },
+      {
+        "source": "GitHub Issue",
+        "title": "Mark Claude Agent replies as Claude Code's response",
+        "url": "https://github.com/nekko-labs/nekko-agent/issues/1691",
+        "raw": "Mark Claude Agent replies as Claude Code's response In a Claude Agent chat (provider kind `claude-code`), Nekko runs the user's own Claude Code and shows its output. The reply text is Claude Code's, not Nekko's, but nothing in the transcript says so.\n\nShow a quiet mark at the end of each settled assistant reply that a Claude Code provider produced, f",
+        "stars": 0,
+        "published": "2026-11-04",
+        "summary": "Mark Claude Agent replies as Claude Code's response"
+      }
+    ]
+  }
+}
