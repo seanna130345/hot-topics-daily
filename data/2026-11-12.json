@@ -1,0 +1,356 @@
+{
+  "date": "2026-11-12 10:21",
+  "gold": {
+    "price": 855.6464098895623,
+    "change": -1.8433726107994062,
+    "change_pct": -0.21497312835895263
+  },
+  "sections": {
+    "world_news": [
+      {
+        "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+        "raw": "Clashes erupt in Barcelona after thousands join Spain general strike Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+        "published": "Wed, 11 No",
+        "source": "国际新闻",
+        "summary": "Clashes erupt in Barcelona after thousands join Spain general strike"
+      },
+      {
+        "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+        "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+        "raw": "Democrat Scott Colom seals historic win in Mississippi Senate race Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+        "published": "Thu, 12 No",
+        "source": "国际新闻",
+        "summary": "Democrat Scott Colom seals historic win in Mississippi Senate race"
+      },
+      {
+        "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+        "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+        "raw": "Russia-Ukraine talks turn to post-war security but end without breakthrough Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+        "published": "Wed, 11 No",
+        "source": "国际新闻",
+        "summary": "Russia-Ukraine talks turn to post-war security but end without breakthrough"
+      },
+      {
+        "title": "New York building collapse kills one person and injures 12",
+        "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+        "raw": "New York building collapse kills one person and injures 12 Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+        "published": "Thu, 12 No",
+        "source": "国际新闻",
+        "summary": "New York building collapse kills one person and injures 12"
+      },
+      {
+        "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+        "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+        "raw": "Indonesia's vice president resigns amid signs ruling alliance is fraying The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+        "published": "Wed, 11 No",
+        "source": "国际新闻",
+        "summary": "Indonesia's vice president resigns amid signs ruling alliance is fraying"
+      }
+    ],
+    "china_news": [
+      {
+        "title": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7252946.shtml",
+        "raw": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t \n\t\t\t\t　　原标题：”光纤之父”高锟离世 享年84岁\n　　据香港媒体报道，香港中文大学前校长、有“光纤之父”之称的高锟，今天（9月23日）下午在医院离世，享年84岁。\n\n　　高锟光纤、宽带传送等科技成就极高，在国际学术领域获奖无数，并在2009年10月6日获得诺贝尔物理学奖，以表扬其“....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7224643.shtml",
+        "raw": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t \n\t\t\t\t　　原标题：我在瑞典学习工作12年，这台辱华节目槽点多到不忍直视\n　　文/ doufu\n　　观察者网、环球时报等已经对瑞典国家电视台播放的辱华电视节目“Svenska Nyheter（瑞典新闻）”做了翻译和介绍，我再发布个人版本的翻译意义很小，因此我决定做一些补充性的说明，并表达一些个....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2018-09-23/doc-ihkmwytn7197076.shtml",
+        "raw": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t \n\t\t\t\t原标题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　中新社香港9月23日电 题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　作者 香企容\n　　广深港高铁香港段(高铁香港段)23日正式通车，500多名搭乘香港西九龙站首发列车的乘....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7187370.shtml",
+        "raw": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t \n\t\t\t\t　　原标题：这位市委书记香港请大师写“符文” 放枕下求保佑\n　　撰文 | 韩兵   \n　　9月20日，黑龙江省举行了反腐败警示教育大会，现职省级领导和省直单位主要负责同志、纪委书记（纪检监察组长）等432人到场学习。\n　　据了解，这是黑龙江省首次举办这样规模的警示教....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ifxeuwwr7474087.shtml",
+        "raw": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t \n\t\t\t\t　　原标题：头条 | 让美国失望了！“制裁”难阻中国进口军备，反而会――\n　　据《日本经济新闻》9月22日报道，特朗普政府20日决定对中国军方高官等实施制裁，理由是相关人员和机构违反《以制裁反击美国敌人法》从俄罗斯进口军事装备。\n　　报道称，特朗普政府将俄罗斯最重视的军....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t"
+      }
+    ],
+    "tech_news": [
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "raw": "The unfolding Jensen Huang scandal: a timeline The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "published": "Wed, 11 No",
+        "source": "科技",
+        "summary": "The unfolding Jensen Huang scandal: a timeline"
+      },
+      {
+        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+        "raw": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+        "published": "Wed, 11 No",
+        "source": "科技",
+        "summary": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang"
+      },
+      {
+        "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+        "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+        "raw": "Jensen Huang accused of having another affair — with an Nvidia exec Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate. ",
+        "published": "Wed, 11 No",
+        "source": "科技",
+        "summary": "Jensen Huang accused of having another affair — with an Nvidia exec"
+      },
+      {
+        "title": "Why the data center you dread might never even be built",
+        "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+        "raw": "Why the data center you dread might never even be built The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the",
+        "published": "Wed, 11 No",
+        "source": "科技",
+        "summary": "Why the data center you dread might never even be built"
+      },
+      {
+        "title": "Meta is losing its longtime head of  infrastructure",
+        "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+        "raw": "Meta is losing its longtime head of  infrastructure Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role. ",
+        "published": "Wed, 11 No",
+        "source": "科技",
+        "summary": "Meta is losing its longtime head of  infrastructure"
+      }
+    ],
+    "finance_news": [
+      {
+        "title": "Latest Oil Market News and Analysis for Nov. 12",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/latest-oil-market-news-and-analysis-for-nov-12",
+        "raw": "Latest Oil Market News and Analysis for Nov. 12 Oil fell toward a two-month low as Middle East production rose and hostilities between Iran and the US remained muted.",
+        "published": "Wed, 11 No",
+        "source": "国际财经",
+        "summary": "Latest Oil Market News and Analysis for Nov. 12"
+      },
+      {
+        "title": "IDR/USD: Indonesian Rupiah Drops to Record Amid MSCI Concerns, Oil Risks",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-12/idr-usd-indonesian-rupiah-drops-to-record-amid-msci-concerns-oil-risks",
+        "raw": "IDR/USD: Indonesian Rupiah Drops to Record Amid MSCI Concerns, Oil Risks The Indonesian rupiah fell to an all-time low as a stronger dollar and the risk of MSCI Inc. removing the nation’s stocks from its emerging-market indexes cast a pall over Asia’s worst-performing currency.",
+        "published": "Thu, 12 No",
+        "source": "国际财经",
+        "summary": "IDR/USD: Indonesian Rupiah Drops to Record Amid MSCI Concerns, Oil Risks"
+      },
+      {
+        "title": "Asian Stocks Edge Higher, Shrug Off Nvidia Woes: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
+        "raw": "Asian Stocks Edge Higher, Shrug Off Nvidia Woes: Markets Wrap Asian stocks edged higher as investors largely shrugged off a leadership crisis at Nvidia Corp. that sent shares of the chipmaker at the heart of this year’s artificial-intelligence boom tumbling in after-hours trading.",
+        "published": "Wed, 11 No",
+        "source": "国际财经",
+        "summary": "Asian Stocks Edge Higher, Shrug Off Nvidia Woes: Markets Wrap"
+      },
+      {
+        "title": "Mexican Steel Imports from Asia Fall as More US Supplies Sought",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-12/mexican-steel-imports-from-asia-fall-as-more-us-supplies-sought",
+        "raw": "Mexican Steel Imports from Asia Fall as More US Supplies Sought Mexico’s crackdown on Asian imports is creating an opening to buy more US-made steel, a top economic official said, a shift that could help advance trade negotiations with the Trump administration.",
+        "published": "Thu, 12 No",
+        "source": "国际财经",
+        "summary": "Mexican Steel Imports from Asia Fall as More US Supplies Sought"
+      },
+      {
+        "title": "Nvidia Shares Slide as Investors Consider Future Without Huang",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-tumbles-as-investors-consider-future-without-ceo-huang",
+        "raw": "Nvidia Shares Slide as Investors Consider Future Without Huang Nvidia Corp. shares sank in extended trading Wednesday as investors grappled with the possibility of the company without Chief Executive Officer Jensen Huang at the helm.",
+        "published": "Wed, 11 No",
+        "source": "国际财经",
+        "summary": "Nvidia Shares Slide as Investors Consider Future Without Huang"
+      }
+    ],
+    "ai_news": [
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "raw": "The unfolding Jensen Huang scandal: a timeline The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "published": "Wed, 11 No",
+        "source": "全球AI",
+        "summary": "The unfolding Jensen Huang scandal: a timeline"
+      },
+      {
+        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+        "raw": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+        "published": "Wed, 11 No",
+        "source": "全球AI",
+        "summary": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang"
+      },
+      {
+        "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+        "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+        "raw": "Jensen Huang accused of having another affair — with an Nvidia exec Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate. ",
+        "published": "Wed, 11 No",
+        "source": "全球AI",
+        "summary": "Jensen Huang accused of having another affair — with an Nvidia exec"
+      },
+      {
+        "title": "Why the data center you dread might never even be built",
+        "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+        "raw": "Why the data center you dread might never even be built The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the",
+        "published": "Wed, 11 No",
+        "source": "全球AI",
+        "summary": "Why the data center you dread might never even be built"
+      },
+      {
+        "title": "Meta is losing its longtime head of  infrastructure",
+        "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+        "raw": "Meta is losing its longtime head of  infrastructure Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role. ",
+        "published": "Wed, 11 No",
+        "source": "全球AI",
+        "summary": "Meta is losing its longtime head of  infrastructure"
+      }
+    ],
+    "robot_news": [
+      {
+        "title": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?",
+        "url": "https://spectrum.ieee.org/agentic-robotics",
+        "raw": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem? \nRobotics companies are investing heavily in the belief that data will solve the most difficult problems in robotics. Once AI systems have ingested enough data from human demonstrations, the thinking goes, robots will be able to perform the vast majority of the manual tasks that humans now do. There",
+        "published": "Mon, 09 No",
+        "source": "全球机器人",
+        "summary": "Can Agentic Robotics Solve Robotics’ Data-Scaling Problem?"
+      },
+      {
+        "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
+        "url": "https://spectrum.ieee.org/video-friday-home-cable-robot",
+        "raw": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.CoRL 2026: 9–12 November 2026, AUSTIN, TEXASHumanoids 2",
+        "published": "Fri, 06 No",
+        "source": "全球机器人",
+        "summary": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up"
+      },
+      {
+        "title": "Are Drone Ports the Next Annoying Tech Neighbor?",
+        "url": "https://spectrum.ieee.org/drone-delivery-noise",
+        "raw": "Are Drone Ports the Next Annoying Tech Neighbor? \nRick and Marcia LeCompte loved to watch the Cooper’s hawks that frequented a sweet-gum tree in their yard in Baton Rouge, La. But this October, the hawks were gone. Marcia LeCompte is convinced the birds were scared away by the same flying robots that have been vexing the couple since early Septemb",
+        "published": "Wed, 04 No",
+        "source": "全球机器人",
+        "summary": "Are Drone Ports the Next Annoying Tech Neighbor?"
+      },
+      {
+        "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
+        "url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
+        "raw": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.CoRL 2026: 9–12 November 2026, AUSTINHumanoids 2026: 6–",
+        "published": "Fri, 30 Oc",
+        "source": "全球机器人",
+        "summary": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation"
+      },
+      {
+        "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+        "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+        "raw": "Your Robot’s Safety Functions Already Work. What If the Input Lies? \nThis article is brought to you by VicOne.A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass. Each response depends on information about the robot or its surroundings: a distance reading, a position est",
+        "published": "Tue, 27 Oc",
+        "source": "全球机器人",
+        "summary": "Your Robot’s Safety Functions Already Work. What If the Input Lies?"
+      }
+    ],
+    "github_trending": [
+      {
+        "source": "GitHub Trending",
+        "title": "Tommilley/Flasher_Exodus_Balance",
+        "url": "https://github.com/Tommilley/Flasher_Exodus_Balance",
+        "raw": "Tommilley/Flasher_Exodus_Balance: None Stars:6 Language:Python",
+        "stars": 6,
+        "published": "2026-11-12",
+        "summary": "Tommilley/Flasher_Exodus_Balance"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "gopkg-dev/damail",
+        "url": "https://github.com/gopkg-dev/damail",
+        "raw": "gopkg-dev/damail: Self-hosted mail hub: all your mailboxes on your own server, ready for AI agents via MCP and REST API Stars:4 Language:TypeScript",
+        "stars": 4,
+        "published": "2026-11-12",
+        "summary": "gopkg-dev/damail"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "changhwan-exe/PrePush-Review",
+        "url": "https://github.com/changhwan-exe/PrePush-Review",
+        "raw": "changhwan-exe/PrePush-Review: None Stars:3 Language:Shell",
+        "stars": 3,
+        "published": "2026-11-12",
+        "summary": "changhwan-exe/PrePush-Review"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "samuk190/mta-sa-neon-android",
+        "url": "https://github.com/samuk190/mta-sa-neon-android",
+        "raw": "samuk190/mta-sa-neon-android: MTA SA ANDROID ( for San Andreas Online/MTA NEON ) Stars:3 Language:C",
+        "stars": 3,
+        "published": "2026-11-12",
+        "summary": "samuk190/mta-sa-neon-android"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "sktjgudals/fable-5-2-prompting",
+        "url": "https://github.com/sktjgudals/fable-5-2-prompting",
+        "raw": "sktjgudals/fable-5-2-prompting: Unofficial agent skill for auditing and tuning prompts, CLAUDE.md files, skills, and harnesses for Claude Fable 5.2. Based on Anthropic's prompting guide. Stars:3 Language:None",
+        "stars": 3,
+        "published": "2026-11-12",
+        "summary": "sktjgudals/fable-5-2-prompting"
+      }
+    ],
+    "claude_code": [
+      {
+        "source": "GitHub",
+        "title": "alexeyw/lot-map",
+        "url": "https://github.com/alexeyw/lot-map",
+        "raw": "alexeyw/lot-map: A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in five languages.",
+        "stars": 411,
+        "published": "2026-11-09",
+        "summary": "alexeyw/lot-map"
+      },
+      {
+        "source": "GitHub",
+        "title": "drost-ai/tinker-ai-skill",
+        "url": "https://github.com/drost-ai/tinker-ai-skill",
+        "raw": "drost-ai/tinker-ai-skill: Agent Skill for fine-tuning an agentic model on your own Claude Code sessions with Tinker. Works in Claude Code, Codex and OpenCode.",
+        "stars": 316,
+        "published": "2026-11-07",
+        "summary": "drost-ai/tinker-ai-skill"
+      },
+      {
+        "source": "GitHub",
+        "title": "vzroslieigry/maxagent",
+        "url": "https://github.com/vzroslieigry/maxagent",
+        "raw": "vzroslieigry/maxagent: Experience for AI agents: hooks that make Claude Code, Codex, Antigravity and OpenClaw recall and record what worked, plus maxagent-bridge for your own Chrome.",
+        "stars": 265,
+        "published": "2026-11-08",
+        "summary": "vzroslieigry/maxagent"
+      },
+      {
+        "source": "GitHub",
+        "title": "Moh4696/cinematic-skill",
+        "url": "https://github.com/Moh4696/cinematic-skill",
+        "raw": "Moh4696/cinematic-skill: Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
+        "stars": 208,
+        "published": "2026-11-09",
+        "summary": "Moh4696/cinematic-skill"
+      },
+      {
+        "source": "GitHub",
+        "title": "threerocks/article2media",
+        "url": "https://github.com/threerocks/article2media",
+        "raw": "threerocks/article2media: 把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
+        "stars": 202,
+        "published": "2026-11-08",
+        "summary": "threerocks/article2media"
+      }
+    ]
+  }
+}
