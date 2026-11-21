@@ -1,0 +1,356 @@
+{
+  "date": "2026-11-21 10:38",
+  "gold": {
+    "price": 758.0458694359156,
+    "change": -31.37997170736412,
+    "change_pct": -3.975037308370641
+  },
+  "sections": {
+    "world_news": [
+      {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "raw": "Tech stock sell-off drags markets down as Anthropic shares slide Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "published": "Fri, 20 No",
+        "source": "国际新闻",
+        "summary": "Tech stock sell-off drags markets down as Anthropic shares slide"
+      },
+      {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "raw": "UK to explore even closer ties with EU after agreeing deal, says Burnham The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "published": "Fri, 20 No",
+        "source": "国际新闻",
+        "summary": "UK to explore even closer ties with EU after agreeing deal, says Burnham"
+      },
+      {
+        "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+        "raw": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+        "published": "Sat, 21 No",
+        "source": "国际新闻",
+        "summary": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk"
+      },
+      {
+        "title": "French police officers sentenced for beating of music producer Michel Zecler",
+        "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+        "raw": "French police officers sentenced for beating of music producer Michel Zecler The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+        "published": "Fri, 20 No",
+        "source": "国际新闻",
+        "summary": "French police officers sentenced for beating of music producer Michel Zecler"
+      },
+      {
+        "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+        "raw": "In a year of AI solving maths problems, Anthropic may have just solved the biggest A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time. ",
+        "published": "Fri, 20 No",
+        "source": "国际新闻",
+        "summary": "In a year of AI solving maths problems, Anthropic may have just solved the biggest"
+      }
+    ],
+    "china_news": [
+      {
+        "title": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7252946.shtml",
+        "raw": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t \n\t\t\t\t　　原标题：”光纤之父”高锟离世 享年84岁\n　　据香港媒体报道，香港中文大学前校长、有“光纤之父”之称的高锟，今天（9月23日）下午在医院离世，享年84岁。\n\n　　高锟光纤、宽带传送等科技成就极高，在国际学术领域获奖无数，并在2009年10月6日获得诺贝尔物理学奖，以表扬其“....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7224643.shtml",
+        "raw": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t \n\t\t\t\t　　原标题：我在瑞典学习工作12年，这台辱华节目槽点多到不忍直视\n　　文/ doufu\n　　观察者网、环球时报等已经对瑞典国家电视台播放的辱华电视节目“Svenska Nyheter（瑞典新闻）”做了翻译和介绍，我再发布个人版本的翻译意义很小，因此我决定做一些补充性的说明，并表达一些个....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2018-09-23/doc-ihkmwytn7197076.shtml",
+        "raw": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t \n\t\t\t\t原标题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　中新社香港9月23日电 题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　作者 香企容\n　　广深港高铁香港段(高铁香港段)23日正式通车，500多名搭乘香港西九龙站首发列车的乘....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7187370.shtml",
+        "raw": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t \n\t\t\t\t　　原标题：这位市委书记香港请大师写“符文” 放枕下求保佑\n　　撰文 | 韩兵   \n　　9月20日，黑龙江省举行了反腐败警示教育大会，现职省级领导和省直单位主要负责同志、纪委书记（纪检监察组长）等432人到场学习。\n　　据了解，这是黑龙江省首次举办这样规模的警示教....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ifxeuwwr7474087.shtml",
+        "raw": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t \n\t\t\t\t　　原标题：头条 | 让美国失望了！“制裁”难阻中国进口军备，反而会――\n　　据《日本经济新闻》9月22日报道，特朗普政府20日决定对中国军方高官等实施制裁，理由是相关人员和机构违反《以制裁反击美国敌人法》从俄罗斯进口军事装备。\n　　报道称，特朗普政府将俄罗斯最重视的军....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t"
+      }
+    ],
+    "tech_news": [
+      {
+        "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+        "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+        "raw": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+        "published": "Fri, 20 No",
+        "source": "科技",
+        "summary": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now"
+      },
+      {
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+        "raw": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building. Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+        "published": "Fri, 20 No",
+        "source": "科技",
+        "summary": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building."
+      },
+      {
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+        "raw": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too. ",
+        "published": "Fri, 20 No",
+        "source": "科技",
+        "summary": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too"
+      },
+      {
+        "title": "Super-hot rock geothermal could end data center energy woes",
+        "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+        "raw": "Super-hot rock geothermal could end data center energy woes New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+        "published": "Fri, 20 No",
+        "source": "科技",
+        "summary": "Super-hot rock geothermal could end data center energy woes"
+      },
+      {
+        "title": "Chips can survive the space environment — can their financing?",
+        "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+        "raw": "Chips can survive the space environment — can their financing? Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+        "published": "Fri, 20 No",
+        "source": "科技",
+        "summary": "Chips can survive the space environment — can their financing?"
+      }
+    ],
+    "finance_news": [
+      {
+        "title": "Nasdaq 100 Has Worst Week Since 2020 on AI Drama: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+        "raw": "Nasdaq 100 Has Worst Week Since 2020 on AI Drama: Markets Wrap Weeks of anxiety around the viability of the artificial-intelligence trade erupted into a full-blown selloff, pushing the S&P 500 to a technical correction while lifting bonds and haven currencies.",
+        "published": "Thu, 19 No",
+        "source": "国际财经",
+        "summary": "Nasdaq 100 Has Worst Week Since 2020 on AI Drama: Markets Wrap"
+      },
+      {
+        "title": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-20/j-j-snack-foods-ceo-on-4q-results-and-consumer-sentiment-video",
+        "raw": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment J&J Snack Foods CEO Dan Fachner said the company’s turnaround is on track after a strong year, citing Project Apollo’s more than $25 million in durable savings. A second phase, Apollo 2, is expected to generate another $5 million by 2027 through distribution and manufacturing improvements. Fachner s",
+        "published": "Fri, 20 No",
+        "source": "国际财经",
+        "summary": "J&J Snack Foods CEO on 4Q Results and Consumer Sentiment"
+      },
+      {
+        "title": "El Salvador Troops Killed in Haiti Blast After Rescue Deployment",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-20/el-salvador-troops-killed-in-haiti-blast-after-rescue-deployment",
+        "raw": "El Salvador Troops Killed in Haiti Blast After Rescue Deployment Two Salvadoran soldiers died in Haiti after an explosion struck an area where they were working, weeks after President Nayib Bukele ordered a large deployment to the Caribbean island nation to find missing troops.",
+        "published": "Fri, 20 No",
+        "source": "国际财经",
+        "summary": "El Salvador Troops Killed in Haiti Blast After Rescue Deployment"
+      },
+      {
+        "title": "‘Always Remain Liquid’: Richards",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-20/-always-remain-liquid-richards-video",
+        "raw": "‘Always Remain Liquid’: Richards Bruce Richards, managing partner and head of CVC Marathon, joins Scarlet Fu and Tom Keene on “Bloomberg Money.” They discuss Richards’ favorite investing advice he has received throughout his career. Richards warns about irrational markets and also says he’s not a fan of leveraged ETF structures. (S",
+        "published": "Fri, 20 No",
+        "source": "国际财经",
+        "summary": "‘Always Remain Liquid’: Richards"
+      },
+      {
+        "title": "Anthropic Slides 8.5% to Shrink IPO Gain as AI Trade Unravels",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels",
+        "raw": "Anthropic Slides 8.5% to Shrink IPO Gain as AI Trade Unravels Anthropic PBC shares erased a portion of their first-day jump on Friday, testing investors’ faith after the AI lab delivered the biggest initial public offering in history.",
+        "published": "Fri, 20 No",
+        "source": "国际财经",
+        "summary": "Anthropic Slides 8.5% to Shrink IPO Gain as AI Trade Unravels"
+      }
+    ],
+    "ai_news": [
+      {
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+        "raw": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building. Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+        "published": "Fri, 20 No",
+        "source": "全球AI",
+        "summary": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building."
+      },
+      {
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+        "raw": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too. ",
+        "published": "Fri, 20 No",
+        "source": "全球AI",
+        "summary": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too"
+      },
+      {
+        "title": "Chips can survive the space environment — can their financing?",
+        "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+        "raw": "Chips can survive the space environment — can their financing? Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+        "published": "Fri, 20 No",
+        "source": "全球AI",
+        "summary": "Chips can survive the space environment — can their financing?"
+      },
+      {
+        "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+        "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+        "raw": "The fallout from Nvidia’s Jensen Huang scandal continues In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed",
+        "published": "Fri, 20 No",
+        "source": "全球AI",
+        "summary": "The fallout from Nvidia’s Jensen Huang scandal continues"
+      },
+      {
+        "title": "Six AI-powered gadgets that could make your home office smarter",
+        "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+        "raw": "Six AI-powered gadgets that could make your home office smarter From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+        "published": "Fri, 20 No",
+        "source": "全球AI",
+        "summary": "Six AI-powered gadgets that could make your home office smarter"
+      }
+    ],
+    "robot_news": [
+      {
+        "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
+        "url": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+        "raw": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.Humanoids 2026: 6–9 December 2026, SANTA CLARA, CAEnjoy",
+        "published": "Fri, 20 No",
+        "source": "全球机器人",
+        "summary": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces"
+      },
+      {
+        "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+        "url": "https://spectrum.ieee.org/telesurgery-stroke",
+        "raw": "Can Robots Bring Stroke Surgery to Remote Hospitals? \nI am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up through the patient’s blood vessels. I head for what I believe to be the brain, tracki",
+        "published": "Mon, 16 No",
+        "source": "全球机器人",
+        "summary": "Can Robots Bring Stroke Surgery to Remote Hospitals?"
+      },
+      {
+        "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+        "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+        "raw": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace? \nThis article is brought to you by VicOne.VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among others",
+        "published": "Mon, 16 No",
+        "source": "全球机器人",
+        "summary": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?"
+      },
+      {
+        "title": "Why Skydio Built a Lopsided Drone",
+        "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+        "raw": "Why Skydio Built a Lopsided Drone \nSkydio’s drones have always been magical. From MIT research and early prototypes to what I would argue is still the most advanced consumer drone ever made, this is a company that makes very cool stuff. Sadly, Skydio no longer makes cool stuff for consumers, instead focusing on drone platforms for p",
+        "published": "Sun, 15 No",
+        "source": "全球机器人",
+        "summary": "Why Skydio Built a Lopsided Drone"
+      },
+      {
+        "title": "Video Friday: NASA PROMISEs a New Moon Rover",
+        "url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+        "raw": "Video Friday: NASA PROMISEs a New Moon Rover \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.Humanoids 2026: 6–9 December 2026, SANTA CLARA, CAEnjoy",
+        "published": "Fri, 13 No",
+        "source": "全球机器人",
+        "summary": "Video Friday: NASA PROMISEs a New Moon Rover"
+      }
+    ],
+    "github_trending": [
+      {
+        "source": "GitHub Trending",
+        "title": "ahmedbkareno1-stack/windows-activation-script-lekalin",
+        "url": "https://github.com/ahmedbkareno1-stack/windows-activation-script-lekalin",
+        "raw": "ahmedbkareno1-stack/windows-activation-script-lekalin: Streamline Windows setup with Lekalin, a practical setup scripting tool. Stars:139 Language:HTML",
+        "stars": 139,
+        "published": "2026-11-21",
+        "summary": "ahmedbkareno1-stack/windows-activation-script-lekalin"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "lidija52/filmora-license-short-video-studio",
+        "url": "https://github.com/lidija52/filmora-license-short-video-studio",
+        "raw": "lidija52/filmora-license-short-video-studio: Compact studio for short-form video editing and terms-aware project workflows. Stars:134 Language:HTML",
+        "stars": 134,
+        "published": "2026-11-21",
+        "summary": "lidija52/filmora-license-short-video-studio"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "heracliomc-create/vegas-pro-23-bebaron",
+        "url": "https://github.com/heracliomc-create/vegas-pro-23-bebaron",
+        "raw": "heracliomc-create/vegas-pro-23-bebaron: Professional video editing suite with timeline-based tools for multi-track projects. Stars:131 Language:HTML",
+        "stars": 131,
+        "published": "2026-11-21",
+        "summary": "heracliomc-create/vegas-pro-23-bebaron"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "bgleeson180-afk/cinema-4d-sacerin-motion-studio",
+        "url": "https://github.com/bgleeson180-afk/cinema-4d-sacerin-motion-studio",
+        "raw": "bgleeson180-afk/cinema-4d-sacerin-motion-studio: Builds Cinema 4D Sacerin motion scenes through a structured studio workflow. Stars:130 Language:HTML",
+        "stars": 130,
+        "published": "2026-11-21",
+        "summary": "bgleeson180-afk/cinema-4d-sacerin-motion-studio"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "huygenshin220607-blip/3ds-max-modeler",
+        "url": "https://github.com/huygenshin220607-blip/3ds-max-modeler",
+        "raw": "huygenshin220607-blip/3ds-max-modeler: Builds editable 3D models in 3ds Max - supports mesh construction and scene-ready output. Stars:130 Language:HTML",
+        "stars": 130,
+        "published": "2026-11-21",
+        "summary": "huygenshin220607-blip/3ds-max-modeler"
+      }
+    ],
+    "claude_code": [
+      {
+        "source": "GitHub",
+        "title": "zavi2997-droid/claude-code-agent-workspace",
+        "url": "https://github.com/zavi2997-droid/claude-code-agent-workspace",
+        "raw": "zavi2997-droid/claude-code-agent-workspace: Orchestrates composable Claude Code agent workflows across isolated workspace contexts.",
+        "stars": 152,
+        "published": "2026-11-20",
+        "summary": "zavi2997-droid/claude-code-agent-workspace"
+      },
+      {
+        "source": "GitHub",
+        "title": "AnIT012/nihongo",
+        "url": "https://github.com/AnIT012/nihongo",
+        "raw": "AnIT012/nihongo: AIが書く日本語を、人が書く文に近づけるエージェントスキル。Claude、ChatGPT、Claude Code、Codexなどで使えます。",
+        "stars": 270,
+        "published": "2026-11-16",
+        "summary": "AnIT012/nihongo"
+      },
+      {
+        "source": "GitHub",
+        "title": "jackson-cmd/claude-multi-desktop",
+        "url": "https://github.com/jackson-cmd/claude-multi-desktop",
+        "raw": "jackson-cmd/claude-multi-desktop: Run multiple Claude Desktop accounts at the same time on Mac: separate sign-ins, custom icons, one shared Claude Code setup, and sessions that message each other across accounts. brew install jackson-cmd/tap/claude-multi-desktop",
+        "stars": 217,
+        "published": "2026-11-16",
+        "summary": "jackson-cmd/claude-multi-desktop"
+      },
+      {
+        "source": "GitHub",
+        "title": "ccarter01011/traxagent-claude-plugin",
+        "url": "https://github.com/ccarter01011/traxagent-claude-plugin",
+        "raw": "ccarter01011/traxagent-claude-plugin: Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.",
+        "stars": 137,
+        "published": "2026-11-17",
+        "summary": "ccarter01011/traxagent-claude-plugin"
+      },
+      {
+        "source": "GitHub",
+        "title": "AI4XE/Parallax",
+        "url": "https://github.com/AI4XE/Parallax",
+        "raw": "AI4XE/Parallax: A lightweight workflow plugin for hands-off AI coding with DeepSeek Harness, Claude Code, GitHub Copilot, and more.",
+        "stars": 136,
+        "published": "2026-11-15",
+        "summary": "AI4XE/Parallax"
+      }
+    ]
+  }
+}
