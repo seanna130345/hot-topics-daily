@@ -1,0 +1,356 @@
+{
+  "date": "2026-11-24 13:23",
+  "gold": {
+    "price": 778.4607719388493,
+    "change": -3.42613532239136,
+    "change_pct": -0.43818809223859206
+  },
+  "sections": {
+    "world_news": [
+      {
+        "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+        "raw": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value. ",
+        "published": "Tue, 24 No",
+        "source": "国际新闻",
+        "summary": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang"
+      },
+      {
+        "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+        "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+        "raw": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+        "published": "Mon, 23 No",
+        "source": "国际新闻",
+        "summary": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal"
+      },
+      {
+        "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+        "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+        "raw": "Nato chief vows defence against space threat after Russian nuclear satellite reports German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+        "published": "Tue, 24 No",
+        "source": "国际新闻",
+        "summary": "Nato chief vows defence against space threat after Russian nuclear satellite reports"
+      },
+      {
+        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+        "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+        "raw": "What strike on Russian ship in Libya says about spread of Ukraine war Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner. ",
+        "published": "Mon, 23 No",
+        "source": "国际新闻",
+        "summary": "What strike on Russian ship in Libya says about spread of Ukraine war"
+      },
+      {
+        "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+        "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+        "raw": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum The promoter and broadcaster helped define the music tastes of Australians for decades.",
+        "published": "Tue, 24 No",
+        "source": "国际新闻",
+        "summary": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum"
+      }
+    ],
+    "china_news": [
+      {
+        "title": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7252946.shtml",
+        "raw": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t \n\t\t\t\t　　原标题：”光纤之父”高锟离世 享年84岁\n　　据香港媒体报道，香港中文大学前校长、有“光纤之父”之称的高锟，今天（9月23日）下午在医院离世，享年84岁。\n\n　　高锟光纤、宽带传送等科技成就极高，在国际学术领域获奖无数，并在2009年10月6日获得诺贝尔物理学奖，以表扬其“....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t“光纤之父”高锟离世 曾获诺贝尔物理学奖\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7224643.shtml",
+        "raw": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t \n\t\t\t\t　　原标题：我在瑞典学习工作12年，这台辱华节目槽点多到不忍直视\n　　文/ doufu\n　　观察者网、环球时报等已经对瑞典国家电视台播放的辱华电视节目“Svenska Nyheter（瑞典新闻）”做了翻译和介绍，我再发布个人版本的翻译意义很小，因此我决定做一些补充性的说明，并表达一些个....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t辱华节目主持人：在瑞典说侮辱中国人不会被查\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/o/2018-09-23/doc-ihkmwytn7197076.shtml",
+        "raw": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t \n\t\t\t\t原标题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　中新社香港9月23日电 题：“00后”香港“铁路迷”一路“快闪”拍照高铁通车：19分钟不够过瘾\n　　作者 香企容\n　　广深港高铁香港段(高铁香港段)23日正式通车，500多名搭乘香港西九龙站首发列车的乘....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t00后香港铁路迷搭高铁到深圳北站:19分钟不够过瘾\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ihkmwytn7187370.shtml",
+        "raw": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t \n\t\t\t\t　　原标题：这位市委书记香港请大师写“符文” 放枕下求保佑\n　　撰文 | 韩兵   \n　　9月20日，黑龙江省举行了反腐败警示教育大会，现职省级领导和省直单位主要负责同志、纪委书记（纪检监察组长）等432人到场学习。\n　　据了解，这是黑龙江省首次举办这样规模的警示教....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t这位市委书记香港请大师写“符文” 放枕下求保佑\n\t\t\t"
+      },
+      {
+        "title": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t",
+        "url": "http://go.rss.sina.com.cn/redirect.php?url=http://news.sina.com.cn/c/2018-09-23/doc-ifxeuwwr7474087.shtml",
+        "raw": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t \n\t\t\t\t　　原标题：头条 | 让美国失望了！“制裁”难阻中国进口军备，反而会――\n　　据《日本经济新闻》9月22日报道，特朗普政府20日决定对中国军方高官等实施制裁，理由是相关人员和机构违反《以制裁反击美国敌人法》从俄罗斯进口军事装备。\n　　报道称，特朗普政府将俄罗斯最重视的军....\n\t\t\t",
+        "published": "Sun, 23 Se",
+        "source": "国内新闻",
+        "summary": "\n\t\t\t\t让美国失望了 制裁难阻中国进口军备会引中俄反抗\n\t\t\t"
+      }
+    ],
+    "tech_news": [
+      {
+        "title": "Figma employee sues, alleging company forced her to confront harassers",
+        "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+        "raw": "Figma employee sues, alleging company forced her to confront harassers Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination. ",
+        "published": "Mon, 23 No",
+        "source": "科技",
+        "summary": "Figma employee sues, alleging company forced her to confront harassers"
+      },
+      {
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "raw": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+        "published": "Mon, 23 No",
+        "source": "科技",
+        "summary": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes"
+      },
+      {
+        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "raw": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+        "published": "Mon, 23 No",
+        "source": "科技",
+        "summary": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios"
+      },
+      {
+        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "raw": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal \"The mistake has been corrected,\" Elon Musk chimed in.",
+        "published": "Mon, 23 No",
+        "source": "科技",
+        "summary": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal"
+      },
+      {
+        "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+        "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "raw": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government. ",
+        "published": "Mon, 23 No",
+        "source": "科技",
+        "summary": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist"
+      }
+    ],
+    "finance_news": [
+      {
+        "title": "Singapore, China Deepen Yuan Ties With Focus on Corporates",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates",
+        "raw": "Singapore, China Deepen Yuan Ties With Focus on Corporates The central banks of Singapore and China will expand ways for financial institutions to access yuan funding in the city-state to help finance a broader range of corporate activities, in another step to promote the currency’s international use.",
+        "published": "Tue, 24 No",
+        "source": "国际财经",
+        "summary": "Singapore, China Deepen Yuan Ties With Focus on Corporates"
+      },
+      {
+        "title": "India Banking Cash Turns to Deficit, First Time Since June",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-23/india-s-banking-cash-turns-to-deficit-for-first-time-since-june",
+        "raw": "India Banking Cash Turns to Deficit, First Time Since June India’s banking-system liquidity slipped into deficit for the first time in about five months, as recent tax outflows drained cash from lenders.",
+        "published": "Mon, 23 No",
+        "source": "国际财经",
+        "summary": "India Banking Cash Turns to Deficit, First Time Since June"
+      },
+      {
+        "title": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+        "raw": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap Asian shares jumped the most since July as Jensen Huang’s return to lead Nvidia Corp. sparked a rebound in the artificial intelligence trade, sending the region’s major chipmakers surging after last week’s rout.",
+        "published": "Mon, 23 No",
+        "source": "国际财经",
+        "summary": "Asian Stocks Jump as Huang’s Return Lifts AI Trade: Markets Wrap"
+      },
+      {
+        "title": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-gain-after-nvidia-s-rehiring-of-huang-sparks-rally",
+        "raw": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally Gold held a gain after surging Monday on the back of Jensen Huang’s surprise return to the helm of Nvidia Corp., which recharged bets on artificial intelligence and spurred rallies across markets.",
+        "published": "Tue, 24 No",
+        "source": "国际财经",
+        "summary": "Gold Holds Gain After Nvidia’s Rehiring of Huang Sparks Rally"
+      },
+      {
+        "title": "Asia Stocks Jump as Huang’s Return Lifts AI Trade",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-asia-trade-11-24-2026-video",
+        "raw": "Asia Stocks Jump as Huang’s Return Lifts AI Trade \"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney and Singapore with Haidi Stroud-Watts and Avril Hong, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping g",
+        "published": "Tue, 24 No",
+        "source": "国际财经",
+        "summary": "Asia Stocks Jump as Huang’s Return Lifts AI Trade"
+      }
+    ],
+    "ai_news": [
+      {
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "raw": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+        "published": "Mon, 23 No",
+        "source": "全球AI",
+        "summary": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes"
+      },
+      {
+        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "raw": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+        "published": "Mon, 23 No",
+        "source": "全球AI",
+        "summary": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios"
+      },
+      {
+        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "raw": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal \"The mistake has been corrected,\" Elon Musk chimed in.",
+        "published": "Mon, 23 No",
+        "source": "全球AI",
+        "summary": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal"
+      },
+      {
+        "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+        "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "raw": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government. ",
+        "published": "Mon, 23 No",
+        "source": "全球AI",
+        "summary": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist"
+      },
+      {
+        "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+        "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "raw": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ \"I'm going to be a better CEO the second time around,\" Huang told employees.",
+        "published": "Mon, 23 No",
+        "source": "全球AI",
+        "summary": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ"
+      }
+    ],
+    "robot_news": [
+      {
+        "title": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces",
+        "url": "https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor",
+        "raw": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.Humanoids 2026: 6–9 December 2026, SANTA CLARA, CAEnjoy",
+        "published": "Fri, 20 No",
+        "source": "全球机器人",
+        "summary": "Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces"
+      },
+      {
+        "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
+        "url": "https://spectrum.ieee.org/telesurgery-stroke",
+        "raw": "Can Robots Bring Stroke Surgery to Remote Hospitals? \nI am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up through the patient’s blood vessels. I head for what I believe to be the brain, tracki",
+        "published": "Mon, 16 No",
+        "source": "全球机器人",
+        "summary": "Can Robots Bring Stroke Surgery to Remote Hospitals?"
+      },
+      {
+        "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
+        "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+        "raw": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace? \nThis article is brought to you by VicOne.VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among others",
+        "published": "Mon, 16 No",
+        "source": "全球机器人",
+        "summary": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?"
+      },
+      {
+        "title": "Why Skydio Built a Lopsided Drone",
+        "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+        "raw": "Why Skydio Built a Lopsided Drone \nSkydio’s drones have always been magical. From MIT research and early prototypes to what I would argue is still the most advanced consumer drone ever made, this is a company that makes very cool stuff. Sadly, Skydio no longer makes cool stuff for consumers, instead focusing on drone platforms for p",
+        "published": "Sun, 15 No",
+        "source": "全球机器人",
+        "summary": "Why Skydio Built a Lopsided Drone"
+      },
+      {
+        "title": "Video Friday: NASA PROMISEs a New Moon Rover",
+        "url": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
+        "raw": "Video Friday: NASA PROMISEs a New Moon Rover \nVideo Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion.Humanoids 2026: 6–9 December 2026, SANTA CLARA, CAEnjoy",
+        "published": "Fri, 13 No",
+        "source": "全球机器人",
+        "summary": "Video Friday: NASA PROMISEs a New Moon Rover"
+      }
+    ],
+    "github_trending": [
+      {
+        "source": "GitHub Trending",
+        "title": "devvern1/dlss-5-swapper-compatibility",
+        "url": "https://github.com/devvern1/dlss-5-swapper-compatibility",
+        "raw": "devvern1/dlss-5-swapper-compatibility: Mod your setup and swap DLLs with Dlss 5 Swapper Compatibility. Stars:178 Language:HTML",
+        "stars": 178,
+        "published": "2026-11-24",
+        "summary": "devvern1/dlss-5-swapper-compatibility"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "injectingon5m-alt/pubg-map-hack",
+        "url": "https://github.com/injectingon5m-alt/pubg-map-hack",
+        "raw": "injectingon5m-alt/pubg-map-hack: Live map intel and HUD overlays that keep PUBG squad decisions sharp. Stars:178 Language:HTML",
+        "stars": 178,
+        "published": "2026-11-24",
+        "summary": "injectingon5m-alt/pubg-map-hack"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "isadhanjana-cpu/gta-5-enhanced-mod-menu",
+        "url": "https://github.com/isadhanjana-cpu/gta-5-enhanced-mod-menu",
+        "raw": "isadhanjana-cpu/gta-5-enhanced-mod-menu: In-game tools and live stats for GTA 5 Enhanced, built for quick access. Stars:178 Language:HTML",
+        "stars": 178,
+        "published": "2026-11-24",
+        "summary": "isadhanjana-cpu/gta-5-enhanced-mod-menu"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "lianmarcelo/ea-sports-fc-26-fut-web-app-sniping-kacelan",
+        "url": "https://github.com/lianmarcelo/ea-sports-fc-26-fut-web-app-sniping-kacelan",
+        "raw": "lianmarcelo/ea-sports-fc-26-fut-web-app-sniping-kacelan: Built by the community, for the community - sniping tools and features for FC 26 Stars:177 Language:HTML",
+        "stars": 177,
+        "published": "2026-11-24",
+        "summary": "lianmarcelo/ea-sports-fc-26-fut-web-app-sniping-kacelan"
+      },
+      {
+        "source": "GitHub Trending",
+        "title": "cfiset41-lab/fiddler-everywhere-fasaron",
+        "url": "https://github.com/cfiset41-lab/fiddler-everywhere-fasaron",
+        "raw": "cfiset41-lab/fiddler-everywhere-fasaron: Inspect, intercept, and modify HTTP traffic to debug web requests. Stars:177 Language:HTML",
+        "stars": 177,
+        "published": "2026-11-24",
+        "summary": "cfiset41-lab/fiddler-everywhere-fasaron"
+      }
+    ],
+    "claude_code": [
+      {
+        "source": "GitHub",
+        "title": "danielwh2/sprite-stacking",
+        "url": "https://github.com/danielwh2/sprite-stacking",
+        "raw": "danielwh2/sprite-stacking: Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+        "stars": 689,
+        "published": "2026-11-20",
+        "summary": "danielwh2/sprite-stacking"
+      },
+      {
+        "source": "GitHub",
+        "title": "sybil-solutions/skill-distill",
+        "url": "https://github.com/sybil-solutions/skill-distill",
+        "raw": "sybil-solutions/skill-distill: Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+        "stars": 530,
+        "published": "2026-11-21",
+        "summary": "sybil-solutions/skill-distill"
+      },
+      {
+        "source": "GitHub",
+        "title": "tarqmamdouh/agent-theater",
+        "url": "https://github.com/tarqmamdouh/agent-theater",
+        "raw": "tarqmamdouh/agent-theater: Your AI agents, live on a pixel-art stage. Works with Claude Code.",
+        "stars": 173,
+        "published": "2026-11-20",
+        "summary": "tarqmamdouh/agent-theater"
+      },
+      {
+        "source": "GitHub",
+        "title": "Noniv/atlantis",
+        "url": "https://github.com/Noniv/atlantis",
+        "raw": "Noniv/atlantis: A procedural Atlantis you can fly through in the browser: a marble garden city with crystal towers, canals and mountains at golden hour. One 95 KB HTML file with no images, models or libraries, rendered with WebGPU. Built with Claude Code.",
+        "stars": 127,
+        "published": "2026-11-21",
+        "summary": "Noniv/atlantis"
+      },
+      {
+        "source": "GitHub",
+        "title": "uxpilot-ai/user-interview-skill",
+        "url": "https://github.com/uxpilot-ai/user-interview-skill",
+        "raw": "uxpilot-ai/user-interview-skill: Free agent skill that writes neutral 1:1 user interview guides for Claude Code, Codex and Cursor",
+        "stars": 119,
+        "published": "2026-11-23",
+        "summary": "uxpilot-ai/user-interview-skill"
+      }
+    ]
+  }
+}
